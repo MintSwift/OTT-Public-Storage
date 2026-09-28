@@ -514,7 +514,7 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2FcoupangPlay_top10%2F10.jpg?alt=media"
     },
     {
-      "document": "charts/disneyPlus_all",
+      "document": "charts/disneyPlus_series",
       "rank": 1,
       "title": "메이드 인 코리아",
       "mediaType": "series",
@@ -531,8 +531,8 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2FdisneyPlus_all%2F01.webp?alt=media"
     },
     {
-      "document": "charts/disneyPlus_all",
-      "rank": 3,
+      "document": "charts/disneyPlus_movie",
+      "rank": 1,
       "title": "재혼황후: 특별 영상",
       "mediaType": "movie",
       "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a0c7a5-08db-7a43-b8da-dcef2294c0ee/compose?format=webp&width=450&aspectRatio=0.8",
@@ -548,8 +548,8 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2FdisneyPlus_all%2F03.webp?alt=media"
     },
     {
-      "document": "charts/disneyPlus_all",
-      "rank": 4,
+      "document": "charts/disneyPlus_series",
+      "rank": 2,
       "title": "재벌 x 형사",
       "mediaType": "series",
       "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019fb274-6408-7736-8f98-980dbb3c9da6/compose?format=webp&width=450&aspectRatio=0.8",
@@ -565,8 +565,8 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2FdisneyPlus_all%2F04.webp?alt=media"
     },
     {
-      "document": "charts/disneyPlus_all",
-      "rank": 5,
+      "document": "charts/disneyPlus_series",
+      "rank": 3,
       "title": "킬러들의 쇼핑몰",
       "mediaType": "series",
       "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019f883d-128c-7ab7-9d3e-dfd2cebead29/compose?format=webp&width=450&aspectRatio=0.8",
@@ -582,8 +582,8 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2FdisneyPlus_all%2F05.webp?alt=media"
     },
     {
-      "document": "charts/disneyPlus_all",
-      "rank": 6,
+      "document": "charts/disneyPlus_movie",
+      "rank": 2,
       "title": "어벤져스: 엔드게임",
       "mediaType": "movie",
       "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/6a8390cc-0240-46fc-9c52-5287ca3676eb/compose?format=webp&width=450&aspectRatio=0.8",
@@ -599,8 +599,8 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2FdisneyPlus_all%2F06.webp?alt=media"
     },
     {
-      "document": "charts/disneyPlus_all",
-      "rank": 7,
+      "document": "charts/disneyPlus_series",
+      "rank": 4,
       "title": "너에게 다이브",
       "mediaType": "series",
       "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a07484-ee35-7dc0-b9a9-2b089912d476/compose?format=webp&width=450&aspectRatio=0.8",
@@ -616,8 +616,8 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2FdisneyPlus_all%2F07.webp?alt=media"
     },
     {
-      "document": "charts/disneyPlus_all",
-      "rank": 8,
+      "document": "charts/disneyPlus_series",
+      "rank": 5,
       "title": "연애전쟁",
       "mediaType": "series",
       "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ed952-7654-7811-b42e-f5aa7b9f62a3/compose?format=webp&width=450&aspectRatio=0.8",
@@ -633,8 +633,8 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2FdisneyPlus_all%2F08.webp?alt=media"
     },
     {
-      "document": "charts/disneyPlus_all",
-      "rank": 9,
+      "document": "charts/disneyPlus_movie",
+      "rank": 3,
       "title": "어벤져스: 인피니티 워",
       "mediaType": "movie",
       "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/433236b6-470b-461e-bfc5-e48016f077eb/compose?format=webp&width=450&aspectRatio=0.8",
@@ -650,8 +650,8 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2FdisneyPlus_all%2F09.webp?alt=media"
     },
     {
-      "document": "charts/disneyPlus_all",
-      "rank": 10,
+      "document": "charts/disneyPlus_movie",
+      "rank": 4,
       "title": "아바타: 불과 재",
       "mediaType": "movie",
       "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ef80c-d2a2-7039-aa38-d8622f9c1d32/compose?format=webp&width=450&aspectRatio=0.8",
