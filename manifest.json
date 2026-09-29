@@ -1490,14 +1490,14 @@
       "sourceURL": "https://images.ctfassets.net/4cd45et68cgf/4svreqbLm6ALM9FgDJMrxW/8ee7e1d07774cf8ecc821fccff33ad77/%C3%A1__%C3%A1__%C3%A1__%C3%A1__%C3%A1__%C3%A1_%C2%B5%C3%A1__%C3%A1__%C3%A1__%C3%A1_%C2%BA_2025-09-12_%C3%A1__%C3%A1__%C3%A1__%C3%A1__%C3%A1___11.17.37.png",
       "objectBase": "posters/upcoming/netflix_blue_road_2026",
       "metadataSourceURL": "https://www.netflix.com/kr/title/81941626",
-      "objectPath": "posters/upcoming/netflix_blue_road_2026.png",
-      "contentType": "image/png",
-      "bytes": 660454,
-      "sha256": "abc33024ab1528c203755064c213e3869ecb67c2b2861e4ee2e13659e8106c60",
+      "objectPath": "posters/upcoming/netflix_blue_road_2026.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 127456,
+      "sha256": "535cdd985bb7fc0ae51de5d693387d7eda9d0a1e958d85cb40bc01bab48fd60b",
       "width": 625,
       "height": 666,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_blue_road_2026.png",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_blue_road_2026.png?alt=media"
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_blue_road_2026.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_blue_road_2026.jpg?alt=media"
     },
     {
       "document": "upcoming/netflix_tantara_2026q4",
@@ -1524,14 +1524,14 @@
       "sourceURL": "https://images.ctfassets.net/4cd45et68cgf/1Lc6YUSDFJbdqxuG8HH8xZ/9be5fa57872e3452b1d802b6021a03f5/EN_Outback_4x5_.png",
       "objectBase": "posters/upcoming/netflix_outback_2026",
       "metadataSourceURL": "https://about.netflix.com/ko/news/outback-wt-production",
-      "objectPath": "posters/upcoming/netflix_outback_2026.png",
-      "contentType": "image/png",
-      "bytes": 984066,
-      "sha256": "58eda3a3c337aca6efe22ed0c52db920d594393db1713e871bc60838f5cbe84b",
+      "objectPath": "posters/upcoming/netflix_outback_2026.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 319604,
+      "sha256": "15234e068bce38fecc5506a7cd91f37ff31b97134053c818a33519273170a15a",
       "width": 1080,
       "height": 1350,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_outback_2026.png",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_outback_2026.png?alt=media"
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_outback_2026.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_outback_2026.jpg?alt=media"
     },
     {
       "document": "upcoming/netflix_materesa_2026",
