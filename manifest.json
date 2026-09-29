@@ -1770,6 +1770,23 @@
       "height": 394,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_in_a_holidaze_20261202.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_in_a_holidaze_20261202.webp?alt=media"
+    },
+    {
+      "document": "upcoming/netflix_a_dog_s_perfect_christmas_20261104",
+      "rank": null,
+      "title": "A Dog's Perfect Christmas",
+      "mediaType": "movie",
+      "sourceURL": "https://www.whats-on-netflix.com/wp-content/uploads/2025/10/dennis-quaid-mary-steenburgen-headling-netflix-a-dogs-perfect-christmas-1280x720.jpg",
+      "objectBase": "posters/upcoming/netflix_a_dogs_perfect_christmas_20261104_cast_wide",
+      "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026",
+      "objectPath": "posters/upcoming/netflix_a_dogs_perfect_christmas_20261104_cast_wide.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 108032,
+      "sha256": "2bd400c8e0df9bfba7ba39205bcd8327100219550b8b584edde48e44199c5e36",
+      "width": 1280,
+      "height": 720,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_a_dogs_perfect_christmas_20261104_cast_wide.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_a_dogs_perfect_christmas_20261104_cast_wide.jpg?alt=media"
     }
   ]
 }
