@@ -1430,6 +1430,23 @@
       "height": 720,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_charge_my_heart_20261009.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_charge_my_heart_20261009.jpg?alt=media"
+    },
+    {
+      "document": "upcoming/tving_make_me_tremble_20261015",
+      "rank": null,
+      "title": "내가 떨릴 수 있게",
+      "mediaType": "series",
+      "sourceURL": "https://image.tving.com/ntgs/contents/CTC/caip/CAIP0400/ko/20260928/2257/P001791920.jpg/dims/resize/1280",
+      "objectBase": "posters/upcoming/tving_make_me_tremble_20261015",
+      "metadataSourceURL": "https://www.tving.com/contents/P001791920",
+      "objectPath": "posters/upcoming/tving_make_me_tremble_20261015.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 102221,
+      "sha256": "33d11fee69fefd62fe8c3ef37b24bf3acc166d61173dd0518bba8e49077ea6e7",
+      "width": 1280,
+      "height": 720,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/tving_make_me_tremble_20261015.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Ftving_make_me_tremble_20261015.jpg?alt=media"
     }
   ]
 }
