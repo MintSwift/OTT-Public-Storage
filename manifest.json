@@ -1634,6 +1634,23 @@
       "height": 1024,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_parasyte_tamiya_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_parasyte_tamiya_2026.jpg?alt=media"
+    },
+    {
+      "document": "upcoming/netflix_the_good_lawyer_2026",
+      "rank": null,
+      "title": "The Good Lawyer",
+      "mediaType": "movie",
+      "sourceURL": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQYZVHAUdgTdJfEA7Xzy--g9H6JmxqUaoM1cwDTkQmXW7ThDaTCs6ELP1hz7mjRzuZMKlqT6gCKYdkR6aObahkXQF5AfQkigB2L5NWjDCaka4jFZjFA9VXZFTT4_4lnvD1KoU33WiIUFSTsMHlBGbuPt_.png?r=48d",
+      "objectBase": "posters/upcoming/netflix_the_good_lawyer_2026",
+      "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true",
+      "objectPath": "posters/upcoming/netflix_the_good_lawyer_2026.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 330033,
+      "sha256": "a09b2bbc57d59a950db367cb4a82cffae86914a3e5554eb332eb8c62e22acdb9",
+      "width": 1200,
+      "height": 797,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_the_good_lawyer_2026.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_the_good_lawyer_2026.jpg?alt=media"
     }
   ]
 }
