@@ -1463,7 +1463,7 @@
       "width": 1500,
       "height": 1000,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/coupang_harry_potter_2026.jpg",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcoupang_harry_potter_2026.jpg?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcoupang_harry_potter_2026.jpg?alt=media"
     },
     {
       "document": "upcoming/disney_portraits_of_delusion_2026",
@@ -1480,7 +1480,7 @@
       "width": 1280,
       "height": 720,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/disney_portraits_of_delusion_2026.jpg",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fdisney_portraits_of_delusion_2026.jpg?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fdisney_portraits_of_delusion_2026.jpg?alt=media"
     },
     {
       "document": "upcoming/netflix_blue_road_2026",
@@ -1497,7 +1497,7 @@
       "width": 625,
       "height": 666,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_blue_road_2026.png",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_blue_road_2026.png?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_blue_road_2026.png?alt=media"
     },
     {
       "document": "upcoming/netflix_tantara_2026q4",
@@ -1514,7 +1514,7 @@
       "width": 1080,
       "height": 1080,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_tantara_2026q4.jpg",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_tantara_2026q4.jpg?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_tantara_2026q4.jpg?alt=media"
     },
     {
       "document": "upcoming/netflix_outback_2026",
@@ -1531,7 +1531,7 @@
       "width": 1080,
       "height": 1350,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_outback_2026.png",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_outback_2026.png?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_outback_2026.png?alt=media"
     },
     {
       "document": "upcoming/netflix_materesa_2026",
@@ -1548,7 +1548,7 @@
       "width": 1280,
       "height": 853,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_materesa_2026.jpg",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_materesa_2026.jpg?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_materesa_2026.jpg?alt=media"
     },
     {
       "document": "upcoming/netflix_halmae_2026",
@@ -1565,7 +1565,7 @@
       "width": 1280,
       "height": 853,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_halmae_2026.jpg",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_halmae_2026.jpg?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_halmae_2026.jpg?alt=media"
     },
     {
       "document": "upcoming/netflix_no_crushing_allowed_2026",
@@ -1582,7 +1582,7 @@
       "width": 1280,
       "height": 853,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_no_crushing_allowed_2026.jpg",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_no_crushing_allowed_2026.jpg?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_no_crushing_allowed_2026.jpg?alt=media"
     },
     {
       "document": "upcoming/netflix_first_doctor_2026",
@@ -1599,7 +1599,7 @@
       "width": 1280,
       "height": 853,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_first_doctor_2026.jpg",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_first_doctor_2026.jpg?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_first_doctor_2026.jpg?alt=media"
     },
     {
       "document": "upcoming/netflix_love_affair_2026",
@@ -1616,7 +1616,7 @@
       "width": 1280,
       "height": 853,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_love_affair_2026.jpg",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_love_affair_2026.jpg?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_love_affair_2026.jpg?alt=media"
     },
     {
       "document": "upcoming/netflix_parasyte_tamiya_2026",
@@ -1633,7 +1633,7 @@
       "width": 1280,
       "height": 1024,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_parasyte_tamiya_2026.jpg",
-      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/gs://comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_parasyte_tamiya_2026.jpg?alt=media"
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_parasyte_tamiya_2026.jpg?alt=media"
     }
   ]
 }
