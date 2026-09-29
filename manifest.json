@@ -1651,6 +1651,23 @@
       "height": 797,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_the_good_lawyer_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_the_good_lawyer_2026.jpg?alt=media"
+    },
+    {
+      "document": "games/Grand Theft Auto VI",
+      "rank": null,
+      "title": "Grand Theft Auto VI",
+      "mediaType": "game",
+      "sourceURL": "https://www.rockstargames.com/VI/-/opengraph-image.jpg?opengraph-image.0t8ty~nlmxq2s.jpg",
+      "objectBase": "posters/games/grand_theft_auto_vi_2026",
+      "metadataSourceURL": "https://www.rockstargames.com/VI",
+      "objectPath": "posters/games/grand_theft_auto_vi_2026.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 475466,
+      "sha256": "d5eee1384313e38b1ced2cd23bc824db3ba067e06d0ac3121e7c89cbfccb324e",
+      "width": 1200,
+      "height": 630,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/grand_theft_auto_vi_2026.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fgrand_theft_auto_vi_2026.jpg?alt=media"
     }
   ]
 }
