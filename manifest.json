@@ -4609,7 +4609,7 @@
       "sha256": "cad81a99e3e9457917b7a0f4c4ee421a0a2dd7046e65c9ed115d66d139518fb1",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_black_clover_s2_20261003.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@4c2cf5bb159d25c201e35956ebff3c35346df9ae/posters/upcoming/catalog_anime_black_clover_s2_20261003.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_black_clover_s2_20261003.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://bclover.jp/onair/"
@@ -4626,7 +4626,7 @@
       "sha256": "c27e4d1ae95229c60e57786e590ddf4cb15856b3a21d6777ca96c375eaeaa33d",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_aoashi_s2_20261004.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@4c2cf5bb159d25c201e35956ebff3c35346df9ae/posters/upcoming/catalog_anime_aoashi_s2_20261004.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_aoashi_s2_20261004.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://aoashi-pr.com/"
@@ -4643,7 +4643,7 @@
       "sha256": "a9ced9d49447dcf715c16feb06858e3c32b3698b423ac64dad19fa70fc5f0d88",
       "width": 2237,
       "height": 1342,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_hotaru_no_yomeiri_20261009.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@4c2cf5bb159d25c201e35956ebff3c35346df9ae/posters/upcoming/catalog_anime_hotaru_no_yomeiri_20261009.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_hotaru_no_yomeiri_20261009.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://hotaru-anime.com/"
@@ -4660,7 +4660,7 @@
       "sha256": "9d446839c9c64e5ed90b1218e23249042d4fc67a22ed63cd0ec48449bbe5f6a5",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_kikansha_no_mahou_s2_20261007.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@4c2cf5bb159d25c201e35956ebff3c35346df9ae/posters/upcoming/catalog_anime_kikansha_no_mahou_s2_20261007.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_kikansha_no_mahou_s2_20261007.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://www.aniplex.co.jp/lineup/kikansha_season2/"
