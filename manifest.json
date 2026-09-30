@@ -1358,7 +1358,7 @@
       "sha256": "8692ab343178eb5b9704e20dd069385ad12a9070c25b48883b86ed1af8268530",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/apple_k2_20261002.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/apple_k2_20261002.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fapple_k2_20261002.jpg?alt=media",
       "metadataSourceURL": "https://tv.apple.com/kr/movie/%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%B4-%E1%84%84%E1%85%A1%E1%86%BC-%E1%84%80%E1%85%A7%E1%84%8B%E1%85%AE%E1%86%AF-%E1%84%8B%E1%85%B4-k2---the-last-first-winter-k2/umc.cmc.3qvemsb6f04actuyzdporeelt"
     },
@@ -1374,7 +1374,7 @@
       "sha256": "a12ec36f19a6639c75acc9c6181a56d1b0174e740c57f6c37c8b6586be1f3c6c",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/apple_matchbox_20261009.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/apple_matchbox_20261009.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fapple_matchbox_20261009.jpg?alt=media",
       "metadataSourceURL": "https://tv.apple.com/kr/movie/matchbox-%E1%84%83%E1%85%A5-%E1%84%86%E1%85%AE%E1%84%87%E1%85%B5/umc.cmc.31qa8j1tn2cnpyk3fx43w928d"
     },
@@ -1390,7 +1390,7 @@
       "sha256": "8bdb92d759a5f93273a295b9b4759ca74156ded8b0e406df74261a95f855446a",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/apple_tenzing_20261016.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/apple_tenzing_20261016.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fapple_tenzing_20261016.jpg?alt=media",
       "metadataSourceURL": "https://tv.apple.com/kr/movie/%E1%84%90%E1%85%A6%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%BC---tenzing/umc.cmc.6lic0hhuxkrbem0n29vzjopii"
     },
@@ -1406,7 +1406,7 @@
       "sha256": "c3a86060c81738584fe26e306b7a7c24c6789dde57d4628150e00b528f67f5db",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/apple_wanda_s2_20261021.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/apple_wanda_s2_20261021.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fapple_wanda_s2_20261021.jpg?alt=media",
       "metadataSourceURL": "https://tv.apple.com/kr/show/%E1%84%87%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%8E%E1%85%A1%E1%86%BD%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A5---wheres-wanda/umc.cmc.k92ure4ft8lmbfhynpk3xpb4"
     },
@@ -1422,7 +1422,7 @@
       "sha256": "0c8427e7baae35f98a30b97fea6cc6d0ebbae6d5b5091a567db630af5478a093",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_charge_my_heart_20261009.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_charge_my_heart_20261009.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_charge_my_heart_20261009.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/kr/title/82016402"
     },
@@ -1438,7 +1438,7 @@
       "sha256": "33d11fee69fefd62fe8c3ef37b24bf3acc166d61173dd0518bba8e49077ea6e7",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/tving_make_me_tremble_20261015.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/tving_make_me_tremble_20261015.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Ftving_make_me_tremble_20261015.jpg?alt=media",
       "metadataSourceURL": "https://www.tving.com/contents/P001791920"
     },
@@ -1471,7 +1471,7 @@
       "sha256": "1d1899f4c8eb9b0386d45ec844a7136efe909f1b3ded56eba0a979536c6661d4",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/disney_portraits_of_delusion_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/disney_portraits_of_delusion_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fdisney_portraits_of_delusion_2026.jpg?alt=media",
       "metadataSourceURL": "https://disneyplus.disney.co.jp/news/2026/1114_korea_lineup"
     },
@@ -1504,7 +1504,7 @@
       "sha256": "508590478c1bea721e296eb08b1e7ef7d1f9c2b2987b4ff8287b6df27bb05a39",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_tantara_2026q4.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_tantara_2026q4.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_tantara_2026q4.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/kr/title/81987919"
     },
@@ -1520,7 +1520,7 @@
       "sha256": "3460a9f9fd2e82ab8271d6bdd1b50cfe3e3d02d91f78d423e276f1744a895f89",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_outback_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_outback_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_outback_2026.jpg?alt=media",
       "metadataSourceURL": "https://about.netflix.com/ko/news/outback-wt-production"
     },
@@ -1638,7 +1638,7 @@
       "sha256": "a09b2bbc57d59a950db367cb4a82cffae86914a3e5554eb332eb8c62e22acdb9",
       "width": 1200,
       "height": 797,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_the_good_lawyer_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_the_good_lawyer_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_the_good_lawyer_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -1654,7 +1654,7 @@
       "sha256": "00e1f7f20ad1bb89237ec237c8cacd92ddd194a35cb87e59b71d9e82e56f9649",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/grand_theft_auto_vi_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/grand_theft_auto_vi_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fgrand_theft_auto_vi_2026.jpg?alt=media",
       "metadataSourceURL": "https://store.playstation.com/ko-kr/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
     },
@@ -1670,7 +1670,7 @@
       "sha256": "3c925df5d705325a2d5e02a8f804e66817392f160704da55a654c4dc39ae7c30",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_parasyte_tamiya_2026_wide.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_parasyte_tamiya_2026_wide.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_parasyte_tamiya_2026_wide.jpg?alt=media",
       "metadataSourceURL": "https://about.netflix.com/ko/news/parasyte-tamiya-announcement"
     },
@@ -1686,7 +1686,7 @@
       "sha256": "703bbeb39cbf51d9676c6ee37f2880c768315b05be80c9108490c957e962b5f2",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_tyler_perry_doing_life_20261002_wide.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_tyler_perry_doing_life_20261002_wide.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_tyler_perry_doing_life_20261002_wide.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/doing-life-tyler-perry-release-date-cast-news"
     },
@@ -1702,7 +1702,7 @@
       "sha256": "4795955c8d51f3261f0e38863f747b3ca8ec4589b69d31ae85a5d11a2902fdb8",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_heartland_20261113_wide.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_heartland_20261113_wide.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_heartland_20261113_wide.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/heartland-release-date-photos-news"
     },
@@ -1718,7 +1718,7 @@
       "sha256": "b8569b45eb69d515523b1d7f22a096bce6222201be7a0f78476641be0501aec5",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_sctv_greatest_show_20261030_wide.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_sctv_greatest_show_20261030_wide.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_sctv_greatest_show_20261030_wide.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/new-comedy-documentaries-2026"
     },
@@ -1734,7 +1734,7 @@
       "sha256": "398e998f18e38981622fde0898993c53e4971fe6ea4db15a0ecc772c275ecd87",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_14th_20261204_wide.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_14th_20261204_wide.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_14th_20261204_wide.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/14th-release-date-news?inapp=true"
     },
@@ -1750,7 +1750,7 @@
       "sha256": "eb847bcae32a0781577d6c7fb293eb0a1cf61a38eb47b6d2223f4dd76560c74e",
       "width": 700,
       "height": 394,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_in_a_holidaze_20261202.webp",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_in_a_holidaze_20261202.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_in_a_holidaze_20261202.webp?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -1766,7 +1766,7 @@
       "sha256": "2bd400c8e0df9bfba7ba39205bcd8327100219550b8b584edde48e44199c5e36",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/netflix_a_dogs_perfect_christmas_20261104_cast_wide.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/netflix_a_dogs_perfect_christmas_20261104_cast_wide.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fnetflix_a_dogs_perfect_christmas_20261104_cast_wide.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -1782,7 +1782,7 @@
       "sha256": "0919c1eb39ef827bf91fc30cef659c73c4af68acd569f9f7025f7f58bb87affa",
       "width": 1200,
       "height": 674,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_disney_mickey_mouse_clubhouse_s2_20261001.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_disney_mickey_mouse_clubhouse_s2_20261001.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_mickey_mouse_clubhouse_s2_20261001.jpg?alt=media",
       "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-dc471806-a107-436c-9bec-0e4455c7249c"
     },
@@ -1798,7 +1798,7 @@
       "sha256": "027dfda44c0f90a59d86199768b27ad6052cfc39711cba40415faa98a6384b99",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_apple_the_sisters_grimm_20261002.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_apple_the_sisters_grimm_20261002.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_apple_the_sisters_grimm_20261002.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/the-sisters-grimm/"
     },
@@ -1814,7 +1814,7 @@
       "sha256": "2c30007b69d150da7180d553b3adc5f7280887d953e41f32bc31898716397033",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_apple_small_prophets_20261007.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_apple_small_prophets_20261007.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_apple_small_prophets_20261007.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/small-prophets/"
     },
@@ -1830,7 +1830,7 @@
       "sha256": "049a34b28eebc4f67bb7697dc8da08c3d52bd599fa3cefd405da16b3284edccf",
       "width": 1200,
       "height": 674,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_disney_merry_berry_love_20261007.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_disney_merry_berry_love_20261007.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_merry_berry_love_20261007.jpg?alt=media",
       "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-dfa34bdf-143d-4053-aec9-ab38496249de"
     },
@@ -1846,7 +1846,7 @@
       "sha256": "4256bcc451637a4407490ac8f3bc7437b7acba67b3934aa224b836da25d9fccd",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_apple_nocturne_20261030.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_apple_nocturne_20261030.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_apple_nocturne_20261030.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/nocturne/"
     },
@@ -1862,7 +1862,7 @@
       "sha256": "190ce214ba75ad7c1f3c595e3166a9882e419b8c0204f2949265930cfaaeea1e",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_apple_stick_20261104.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_apple_stick_20261104.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_apple_stick_20261104.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/stick/"
     },
@@ -1878,7 +1878,7 @@
       "sha256": "edc130e4f65c34d9efcb57b6d8b4c50210530c9ca5f2d5ca8824e3c23bae5941",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_apple_12_12_12_20261113.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_apple_12_12_12_20261113.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_apple_12_12_12_20261113.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/12-12-12/"
     },
@@ -1894,7 +1894,7 @@
       "sha256": "0f6d1265682507a837dd3b0c8b9d90951f3f044e8282d21eaf1ceda8e47a6bc5",
       "width": 1200,
       "height": 674,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_disney_percy_jackson_s3_20261120.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_disney_percy_jackson_s3_20261120.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_percy_jackson_s3_20261120.jpg?alt=media",
       "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-f1c31566-ec05-4d30-b23f-3177442233f4"
     },
@@ -1910,7 +1910,7 @@
       "sha256": "7c09678cac11309bdeea905aba3b615ca2940b905a5c2561b7dcb89ac7b4524d",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_apple_bad_monkey_20261202.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_apple_bad_monkey_20261202.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_apple_bad_monkey_20261202.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/bad-monkey/"
     },
@@ -1926,7 +1926,7 @@
       "sha256": "9516f81b84b7687e09bb67daefba9d7c6de019681ca896bcf424bc99f453e192",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_apple_neuromancer_20270122.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_apple_neuromancer_20270122.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_apple_neuromancer_20270122.jpg?alt=media",
       "metadataSourceURL": "https://tv.apple.com/kr/show/%E1%84%82%E1%85%B2%E1%84%85%E1%85%A9%E1%84%86%E1%85%A2%E1%86%AB%E1%84%89%E1%85%A5---neuromancer/umc.cmc.ym2z4w07kwsi1wywwxtyckr"
     },
@@ -1942,7 +1942,7 @@
       "sha256": "044738c35a20eeecb1607722d14ba9398c6da89ff38ffe3e412db6ea7957040e",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_apple_the_savant.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_apple_the_savant.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_apple_the_savant.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/the-savant/"
     },
@@ -1958,7 +1958,7 @@
       "sha256": "29a911b9c1722acfbfc6aaffaed3cf0d471f02106212d044f4b4398eadc5a0af",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_3_body_problem_2_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_3_body_problem_2_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_3_body_problem_2_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/new-shows-on-netflix-2026"
     },
@@ -1974,7 +1974,7 @@
       "sha256": "964cb6cd7e97fc2c6b12ab56917312583b9292167964f8abf0104dfeb3e19ed7",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_pride_and_prejudice_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_pride_and_prejudice_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_pride_and_prejudice_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/new-shows-on-netflix-2026"
     },
@@ -1990,7 +1990,7 @@
       "sha256": "1c52754ef0d1f09383183e005c327232432432ab7180fae3a23f40df40fd7628",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_the_diplomat_4_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_the_diplomat_4_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_the_diplomat_4_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/the-diplomat-season-4-release-date-photos-news"
     },
@@ -2006,7 +2006,7 @@
       "sha256": "54d89d1c8bb36b7451d18e568dc20beb27e4b8cacbcccf3e2673f7aac103031c",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_dead_end_job_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_dead_end_job_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_dead_end_job_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/kr/title/81997887"
     },
@@ -2022,7 +2022,7 @@
       "sha256": "ccae767bcca28826d2efcf5db4547e305920ce28e7cc3e9b208d3a977716a1b2",
       "width": 1600,
       "height": 732,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_blue_road_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_blue_road_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_blue_road_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/kr/title/81941626"
     },
@@ -2038,7 +2038,7 @@
       "sha256": "3a3fc7b58b762c2f48fac10f43e14cfe551ed1d495754844da317d4c34c168fb",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_tving_100days_deception_202610.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_tving_100days_deception_202610.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_tving_100days_deception_202610.jpg?alt=media",
       "metadataSourceURL": "https://www.tving.com/contents/P001791340"
     },
@@ -2054,7 +2054,7 @@
       "sha256": "529e9891e8ab3a852e52deb284abc62b374e6970c62e65adbdcc1e8898fef791",
       "width": 1200,
       "height": 674,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_disney_remarried_empress_202611.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_disney_remarried_empress_202611.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_remarried_empress_202611.jpg?alt=media",
       "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-b02d61cd-3aab-4412-b33d-3512712a91f0"
     },
@@ -2070,7 +2070,7 @@
       "sha256": "16750a8d8687dbcbc172b88a9bd7cff71d1a700a582d895296d2901276d1b8c0",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_lupin_4_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_lupin_4_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_lupin_4_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/new-shows-on-netflix-2026"
     },
@@ -2086,7 +2086,7 @@
       "sha256": "2b85f74cec50f526c846ee74ac0048cdabc359a8f9e251fe72a014c7e0c6585e",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_coupang_harry_potter_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_coupang_harry_potter_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_coupang_harry_potter_2026.jpg?alt=media",
       "metadataSourceURL": "https://news.coupang.com/archives/61402/"
     },
@@ -2102,7 +2102,7 @@
       "sha256": "566d91e4c23821f41a7709f766ca2cce8d44f4b70b2493107ba349344d1e7fcc",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_materesa_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_materesa_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_materesa_2026.jpg?alt=media",
       "metadataSourceURL": "https://about.netflix.com/ko/news/materesa-wt-production"
     },
@@ -2118,7 +2118,7 @@
       "sha256": "a1cfef51c93e32beff34459b41a65f685fed49845f1a489f9a3126b31943b77b",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_halmae_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_halmae_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_halmae_2026.jpg?alt=media",
       "metadataSourceURL": "https://about.netflix.com/ko/news/the-shooter-wt-production"
     },
@@ -2134,7 +2134,7 @@
       "sha256": "93f51ba279603c6aca3256ebc998ba42cb11dc564b97b4ddd6501bccfd5dd4f3",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_no_crushing_allowed_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_no_crushing_allowed_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_no_crushing_allowed_2026.jpg?alt=media",
       "metadataSourceURL": "https://about.netflix.com/ko/news/no-crushing-allowed-production-and-casting-announcement"
     },
@@ -2150,7 +2150,7 @@
       "sha256": "4d85bd28f1e11b4d3ab1538ef3ee5f514865038704e6e642d9613cfcab2da248",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_first_doctor_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_first_doctor_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_first_doctor_2026.jpg?alt=media",
       "metadataSourceURL": "https://about.netflix.com/ko/news/first-doctor-wt-production-announcement"
     },
@@ -2166,7 +2166,7 @@
       "sha256": "27e5005585fc39732f4922466de13840f12c6949e023e95ce399e08526b15ebd",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_love_affair_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_series_netflix_love_affair_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_love_affair_2026.jpg?alt=media",
       "metadataSourceURL": "https://about.netflix.com/ko/news/the-facade-of-love-start-of-production"
     },
@@ -2182,7 +2182,7 @@
       "sha256": "05ade84b815f225823ca029fc1e57eab590b2ab374e826d2801bfc7ff0eb8d31",
       "width": 1200,
       "height": 641,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_who_is_martin_mull_20261007.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_who_is_martin_mull_20261007.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_who_is_martin_mull_20261007.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2198,7 +2198,7 @@
       "sha256": "f0dff8a76fa50db3df2692cd74cef187b485413173bb49d6403fc1dc4a282729",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_animals_20261009.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_animals_20261009.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_animals_20261009.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/animals-ben-affleck-release-date-photos-news"
     },
@@ -2214,7 +2214,7 @@
       "sha256": "ef72852ca7b203db7d305fda2f9ab931a687adf43a58f4445a5228eda7d894f4",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_norm_the_tale_of_norm_macdonald_20261016.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_norm_the_tale_of_norm_macdonald_20261016.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_norm_the_tale_of_norm_macdonald_20261016.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2230,7 +2230,7 @@
       "sha256": "ec7038024a7faba63c9e6b34a6686823899de6ac094a029beaa01f867d678c84",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_sacrifice_20261016.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_sacrifice_20261016.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_sacrifice_20261016.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2246,7 +2246,7 @@
       "sha256": "7ac54214679f89345813d8019a5f0fcd2eab4ae882737edad49e810f5ce902c4",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_the_disciple_20261016.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_the_disciple_20261016.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_the_disciple_20261016.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2262,7 +2262,7 @@
       "sha256": "ae78bc29be9f6ef3d449f3bd4d813f1033c5ab7f72ba6b79120786ff337cbb21",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_therapy_done_right_20261016.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_therapy_done_right_20261016.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_therapy_done_right_20261016.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2278,7 +2278,7 @@
       "sha256": "14fe87e25cfce3190a1d92e51f238a0038570b3ae62ad992dc9535bf08abf01d",
       "width": 1200,
       "height": 631,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_paralyzed_by_hope_the_maria_bamford_story_20261023.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_paralyzed_by_hope_the_maria_bamford_story_20261023.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_paralyzed_by_hope_the_maria_bamford_story_20261023.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2294,7 +2294,7 @@
       "sha256": "4e8e2bcb5820326c8d75f6e293b1d6acbe6c3df361d80362dda71701f25a15d0",
       "width": 1600,
       "height": 732,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_20261106.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_20261106.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_20261106.jpg?alt=media",
       "metadataSourceURL": "https://about.netflix.com/ko/news/possible-love-premieres-november-6"
     },
@@ -2310,7 +2310,7 @@
       "sha256": "d1314ebed303b1a35c5929645de71ae0a395d17c81fa8fb477a3de662f9b408d",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_avedon_20261111.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_avedon_20261111.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_avedon_20261111.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/avedon-release-date-news"
     },
@@ -2326,7 +2326,7 @@
       "sha256": "32cd89499c20181ac88431c7f6d8b353f7aa731d839793039f4070650c60f7c6",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_apple_being_heumann_20261113.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_apple_being_heumann_20261113.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_apple_being_heumann_20261113.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/being-heumann/"
     },
@@ -2342,7 +2342,7 @@
       "sha256": "58a6305f07dffeb34c68cd95a2a9ce8b37bfd2f12aedb91d7df1b3c034e15e5c",
       "width": 1200,
       "height": 511,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_gentle_monster_20261118.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_gentle_monster_20261118.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_gentle_monster_20261118.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2358,7 +2358,7 @@
       "sha256": "c411a3191172bde6091559a9f03f4a2d443100e61f391c7eb0b92aa4488dc3d5",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_guarding_stars_20261118.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_guarding_stars_20261118.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_guarding_stars_20261118.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2374,7 +2374,7 @@
       "sha256": "ae1b3ba13dde468e6c52d9172f915519cce4e35565b9fe4eb4b990d1caa9605e",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_primetime_preacher_20261120.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_primetime_preacher_20261120.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_primetime_preacher_20261120.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2390,7 +2390,7 @@
       "sha256": "a9e61bd91ed1f31231bbf6fa279dd956b448504acdbe3a6c58e7f1f9d5c9ea88",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_steps_20261120.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_steps_20261120.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_steps_20261120.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2406,7 +2406,7 @@
       "sha256": "0bf8db25efd1e538b9db6dfe3cd6f9aecf13c1e700d8d229066b4bf07d66efbb",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_the_mosquito_bowl_20261125.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_the_mosquito_bowl_20261125.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_the_mosquito_bowl_20261125.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/the-mosquito-bowl?inapp=true"
     },
@@ -2422,7 +2422,7 @@
       "sha256": "95b8385b11f2f58b967106ef2396d2a098ae506097f38cd97d8575bb8d7d1fa8",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_apple_way_of_the_warrior_kid_20261125.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_apple_way_of_the_warrior_kid_20261125.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_apple_way_of_the_warrior_kid_20261125.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/way-of-the-warrior-kid/"
     },
@@ -2438,7 +2438,7 @@
       "sha256": "5fbbf314edcfc1b65e4625f1c6f4326f08d6d2a59714d342258e7c79681c5578",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_la_bola_negra_20261202.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_la_bola_negra_20261202.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_la_bola_negra_20261202.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2454,7 +2454,7 @@
       "sha256": "fd73e8234740a37dd4374aa72bd6e86b0abfa04aa1ae9e2c7ea7dd7f394f864b",
       "width": 1600,
       "height": 732,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_bad_day_20261211.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_bad_day_20261211.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_bad_day_20261211.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/bad-day-cameron-diaz-comedy-film"
     },
@@ -2470,7 +2470,7 @@
       "sha256": "b24fcae0574c6635f1835b1aed85815a68537f417266a869e0fd2791a1846b32",
       "width": 1200,
       "height": 502,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_in_waves_20261211.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_in_waves_20261211.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_in_waves_20261211.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2486,7 +2486,7 @@
       "sha256": "f3408cf08d1a46542e408342b5837d3b03187249a03920588685418be0743ebc",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_jean_michel_basquiat_20261211.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_jean_michel_basquiat_20261211.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_jean_michel_basquiat_20261211.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2502,7 +2502,7 @@
       "sha256": "ce2bdace15c136c3a2be7b5991a62d688ec6847ab2edd70a3d3456dfbe83b1db",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_give_me_some_sugah_20261216.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_give_me_some_sugah_20261216.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_give_me_some_sugah_20261216.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/tyler-perry-give-me-some-sugah"
     },
@@ -2518,7 +2518,7 @@
       "sha256": "1b7111683383b7090b6c5ded33d2c8b3581d91fb7da47864a7dfcdd1c570e8f4",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_ray_gunn_20261218.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_ray_gunn_20261218.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_ray_gunn_20261218.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2534,7 +2534,7 @@
       "sha256": "329d726048ade822a41d888a118b20486430b28be17810db14bc419695576838",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_the_further_mis_adventures_of_cliff_booth_20261223.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_the_further_mis_adventures_of_cliff_booth_20261223.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_the_further_mis_adventures_of_cliff_booth_20261223.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2550,7 +2550,7 @@
       "sha256": "d6c53074d0d6f132795d1817548e3ae270283e4dc975e0d07ff581d23b7c4be5",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_allen_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_allen_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_allen_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2566,7 +2566,7 @@
       "sha256": "d1b7a381918f487650cdbc37cd07591c4b540df4dbf017fc5a463c02c49a6603",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_crappy_birthday_to_you_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_crappy_birthday_to_you_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_crappy_birthday_to_you_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2582,7 +2582,7 @@
       "sha256": "f084eadf65ae5e0d3d309bbbb2d6b9e74299376f9fcdc3741d9846900b8c4317",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_apple_snoopy_unleashed.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_apple_snoopy_unleashed.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_apple_snoopy_unleashed.jpg?alt=media",
       "metadataSourceURL": "https://www.apple.com/tv-pr/originals/snoopy-unleashed/"
     },
@@ -2598,7 +2598,7 @@
       "sha256": "461fd3c7a1e15e4a110a670108836a83314479efea68b6091b5e304fe3d2c74f",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_mission_cross_2_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_mission_cross_2_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_mission_cross_2_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2614,7 +2614,7 @@
       "sha256": "16dab95a458d9bbd27cfe70c0b5efd176f9caa3b59663be77fc3cd4422d30887",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_hunchback_soul_of_paris_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_hunchback_soul_of_paris_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_hunchback_soul_of_paris_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2630,7 +2630,7 @@
       "sha256": "6da5437ab8146c8170b4fa938d16be59bf2a3175d8a42a836f7b829a6df1bfc3",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_march_of_the_jaguars_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_march_of_the_jaguars_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_march_of_the_jaguars_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2646,7 +2646,7 @@
       "sha256": "cc4ae4514913cfa61f45b6cb6d110ce510f43ed683d6c6b75892de49e206121e",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_on_behalf_of_my_son_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_on_behalf_of_my_son_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_on_behalf_of_my_son_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2662,7 +2662,7 @@
       "sha256": "7e9f444be3c9628d725b14b31284a79591f2c61c52dd9776db1a0e6ff1ede65c",
       "width": 1600,
       "height": 732,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_surviving_hurricane_otis_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_surviving_hurricane_otis_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_surviving_hurricane_otis_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true"
     },
@@ -2678,7 +2678,7 @@
       "sha256": "181e1e19e4908e200e52d21695b9fc33b63bce0337b53dbc8cb241b4aada324b",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_here_comes_the_flood_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_here_comes_the_flood_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_here_comes_the_flood_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/new-movies-on-netflix-2026"
     },
@@ -2694,7 +2694,7 @@
       "sha256": "c0dd1f5f8a9d88ae4196cd46bdd8e7ff3b1e551c5c5594014daad35241f09bdb",
       "width": 1200,
       "height": 675,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_saturn_return_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_movies_netflix_saturn_return_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_saturn_return_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/new-movies-on-netflix-2026"
     },
@@ -2710,7 +2710,7 @@
       "sha256": "5b77708e7d7430c70fe248a63a894551c34d03b6bdcf14fb290c60cb67d915df",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_tougen_anki_nikko_20261002.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_tougen_anki_nikko_20261002.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_tougen_anki_nikko_20261002.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://tougenanki-anime.com/"
@@ -2727,7 +2727,7 @@
       "sha256": "22c9e4daeaf26ddeb50888bc42ccddef1ea0b80f81952586c2c2fba38adf70a3",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_kusuriya_s3_20261002.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_kusuriya_s3_20261002.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_kusuriya_s3_20261002.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://kusuriyanohitorigoto.jp/news/2623/"
@@ -2744,7 +2744,7 @@
       "sha256": "92fdf07d1433b148a9a70195299805f4d94808692809906ef02d66fae9df1751",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_honzuki_ryoshu_no_youshi_20261003.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_honzuki_ryoshu_no_youshi_20261003.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_honzuki_ryoshu_no_youshi_20261003.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://booklove-anime.jp/streaming/"
@@ -2761,7 +2761,7 @@
       "sha256": "0836d43c3ca97e8b918c5ea1b7f063b21e82c13f653ad25fd0061fba525f5fa2",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_to_you_in_the_beyond_20261009.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_to_you_in_the_beyond_20261009.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_to_you_in_the_beyond_20261009.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://sh-anime.shochiku.co.jp/dokokimi-movie/"
@@ -2778,7 +2778,7 @@
       "sha256": "6554631bb8f20da065c25d7e8b3e74ae9ddf8a797b1d58fd6735333b9ca60055",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_blue_box_s2_202610.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_blue_box_s2_202610.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_blue_box_s2_202610.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://aonohako-anime.com/"
@@ -2795,7 +2795,7 @@
       "sha256": "e4fea01e13ba91c371d69891ebcb8e7c8cd45ae6f62c5d3c497cbb52876ea610",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_ranma12_s3_202610.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_ranma12_s3_202610.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_ranma12_s3_202610.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://ranma-pr.com/news/2467/"
@@ -2812,7 +2812,7 @@
       "sha256": "5bb7322fa81697ef7bc8c2d91bf5d9403f48ff201ff1815ab664c35ab36095be",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_magic_knight_rayearth_2026.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_magic_knight_rayearth_2026.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_magic_knight_rayearth_2026.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://rayearth-anime.com/onair/"
@@ -2829,7 +2829,7 @@
       "sha256": "3eee9d11c50fdfd6fd35de721f13aabdabdf70dd0f8bb5e147729979d1337207",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_worlds_strongest_witch_20261007.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_worlds_strongest_witch_20261007.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_worlds_strongest_witch_20261007.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://sekamajo-anime.com/"
@@ -2846,7 +2846,7 @@
       "sha256": "2efc1bad26aac1dcc9fd6e8995e528ef1a99efb228c9d2aa2a9d79c5e4f79f11",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_jimoto_saiko_tba.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_jimoto_saiko_tba.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_jimoto_saiko_tba.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://about.netflix.com/en/news/netflix-anime-titles-revealed-mappa-15th-anniversary"
@@ -2863,7 +2863,7 @@
       "sha256": "5aa2b250e68140a6e1b7ffcf3ab00cdbdb38be3859c7cfc2be21901764b35c3d",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_beat_and_motion_2027.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_beat_and_motion_2027.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_beat_and_motion_2027.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://about.netflix.com/en/news/netflix-anime-titles-revealed-mappa-15th-anniversary"
@@ -2880,7 +2880,7 @@
       "sha256": "e70c750d05003ee184479a86547cf15fa3db6f965f2b8a703b5a31b345351879",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_the_one_piece_202702.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/upcoming/catalog_anime_the_one_piece_202702.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_the_one_piece_202702.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://www.netflix.com/tudum/articles/the-one-piece-release-date"
@@ -2897,7 +2897,7 @@
       "sha256": "3e75c49629e68b2fc126084643c3148d085ad770d5708f133f938dfd94a7dac0",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_007_first_light.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_007_first_light.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_007_first_light.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3768760/?l=koreana"
     },
@@ -2913,7 +2913,7 @@
       "sha256": "b7ca3e3ccba428dfe8a3493d5cd97a5d4bfa80a602270e2f557e4bfd05db05a1",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_ace_combat_8_wings_of_theve.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_ace_combat_8_wings_of_theve.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_ace_combat_8_wings_of_theve.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2288340/?l=koreana"
     },
@@ -2929,7 +2929,7 @@
       "sha256": "9c5fc853e2be00ad5a6c82d36edf86dd620b3bc56fd9ad5035fefeb7b24fd9bc",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_anomalith.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_anomalith.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_anomalith.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000114014"
     },
@@ -2945,7 +2945,7 @@
       "sha256": "d64c64f1bf2678da2d8352489a6eb9ce351eda228d0007e473a8541d44bafda8",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_alien_isolation_2.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_alien_isolation_2.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_alien_isolation_2.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4665290/?l=koreana"
     },
@@ -2961,7 +2961,7 @@
       "sha256": "ef6f8ecdc368069503d7739667e9425bf0a38f2137297a7f9c226547157694c2",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_atelier_karia_the_night_kingdom_the_guide_of_memories.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_atelier_karia_the_night_kingdom_the_guide_of_memories.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_atelier_karia_the_night_kingdom_the_guide_of_memories.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4532500/?l=koreana"
     },
@@ -2977,7 +2977,7 @@
       "sha256": "812f09e1d71d953f2f3a4e04d830627692d71b0a7102196cc0e48226a337ad6e",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_bluey_s_happy_snaps.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_bluey_s_happy_snaps.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_bluey_s_happy_snaps.jpg?alt=media",
       "metadataSourceURL": "https://store.playstation.com/ko-kr/product/EP2006-PPSA33218_00-BLUEYDELUXEBUNDL"
     },
@@ -2993,7 +2993,7 @@
       "sha256": "33f6630df167095dffa140309f50bbdc2040451eba58fcce6cd3a293a09357b2",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_cairn.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_cairn.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_cairn.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/1588550/?l=koreana"
     },
@@ -3009,7 +3009,7 @@
       "sha256": "4b7b63f05c30b2e5205e352649e6066ca4cde679ad1190f7f77d3f201cafbb47",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_call_of_duty_modern_warfare_4.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_call_of_duty_modern_warfare_4.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_call_of_duty_modern_warfare_4.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4435490/?l=koreana"
     },
@@ -3025,7 +3025,7 @@
       "sha256": "9c932a9c90f64ae5dc2018ab983d79c86482176fafa796b82b174a9847a03e10",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_castlevania_belmont_s_curse.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_castlevania_belmont_s_curse.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_castlevania_belmont_s_curse.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4231820/?l=koreana"
     },
@@ -3041,7 +3041,7 @@
       "sha256": "1bc023986c54328d1111f1307be22bc5a5fee6e18d474aafbef642f6dd5743a8",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_clive_barker_s_hellraiser_revival.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_clive_barker_s_hellraiser_revival.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_clive_barker_s_hellraiser_revival.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/1551980/?l=koreana"
     },
@@ -3057,7 +3057,7 @@
       "sha256": "22554ae2590b4a139012f262d92322297fa964f8a936d13bf69eab34c07f9560",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_crazy_taxi_world_tour.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_crazy_taxi_world_tour.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_crazy_taxi_world_tour.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2924540/?l=koreana"
     },
@@ -3073,7 +3073,7 @@
       "sha256": "461023ad3049f0a8e999772455dc16ef35149ccb04158859558d91b51a3be0c8",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_dragon_quest_monsters_the_withered_world.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_dragon_quest_monsters_the_withered_world.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_dragon_quest_monsters_the_withered_world.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3681610/?l=koreana"
     },
@@ -3089,7 +3089,7 @@
       "sha256": "44d0237502ea32faab70b333c986c94c1f8f3ee932200ea0493284691779b529",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_deep_dish_dungeon.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_deep_dish_dungeon.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_deep_dish_dungeon.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2871520/?l=koreana"
     },
@@ -3105,7 +3105,7 @@
       "sha256": "0e2d25eb7f5e35d7ffd4519bc8080a2c2cb95d294b4c3f82072c069f87b3cae4",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_dimenshot.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_dimenshot.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_dimenshot.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3897080/?l=koreana"
     },
@@ -3121,7 +3121,7 @@
       "sha256": "a27cf8d36f496338e58c5aa3cf3a4220cc89f457983ba0971a8c3e62a747f73b",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_dragon_s_dogma_2_dark_arisen.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_dragon_s_dogma_2_dark_arisen.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_dragon_s_dogma_2_dark_arisen.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2054970/?l=koreana"
     },
@@ -3137,7 +3137,7 @@
       "sha256": "a53c2ab3e72c03f8d1984073316a8dc8f3b7bc03af81e54354db39b0d91dfaf8",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_earth_defense_force_5_for_nintendo_switch_2.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_earth_defense_force_5_for_nintendo_switch_2.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_earth_defense_force_5_for_nintendo_switch_2.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/1007040/?l=koreana"
     },
@@ -3153,7 +3153,7 @@
       "sha256": "d431fe79fa1109c89bcf0e12e36c555e73fb2c48a0334e9c1a897c1c5e1116a4",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_earth_defense_force_6_for_nintendo_switch_2.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_earth_defense_force_6_for_nintendo_switch_2.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_earth_defense_force_6_for_nintendo_switch_2.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2291060/?l=koreana"
     },
@@ -3169,7 +3169,7 @@
       "sha256": "664042fc70a0fd07fd883aa61a2d7001bc7da37489777c8f45228cde67d8ab7a",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_ecstatica.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_ecstatica.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_ecstatica.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4834840/?l=koreana"
     },
@@ -3185,7 +3185,7 @@
       "sha256": "55903b704d88c21c62f73a488f095c437a446a79aa5d5f8ee81ebba433f83c16",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_edge_of_memories.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_edge_of_memories.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_edge_of_memories.jpg?alt=media",
       "metadataSourceURL": "https://store.playstation.com/ko-kr/product/EP6665-PPSA28864_00-EOM0000000000000"
     },
@@ -3201,7 +3201,7 @@
       "sha256": "550187391c046697ac18a28dba236345c3bd8be8c53f5ce348ed972a20ad362e",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_eternal_anima.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_eternal_anima.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_eternal_anima.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3781790/?l=koreana"
     },
@@ -3217,7 +3217,7 @@
       "sha256": "40ba4173f3c1699ea8155f06cb04f380cba531042b34effe4824f2aa47011b9f",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_fatal_fury_city_of_the_wolves_standard_edition.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_fatal_fury_city_of_the_wolves_standard_edition.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_fatal_fury_city_of_the_wolves_standard_edition.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2492040/?l=koreana"
     },
@@ -3233,7 +3233,7 @@
       "sha256": "c7e8081ba6a6ee55a7fa436764530139452b31fab3b64e8919f94f87e27f9e8a",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_final_fantasy_resonance.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_final_fantasy_resonance.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_final_fantasy_resonance.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000117106"
     },
@@ -3249,7 +3249,7 @@
       "sha256": "08a0971be09a7bedfb8b7055a883bd1e0c1720cc0488fd7524dce07ef0939230",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_final_fantasy_vii_revelation.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_final_fantasy_vii_revelation.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_final_fantasy_vii_revelation.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4354570/?l=koreana"
     },
@@ -3265,7 +3265,7 @@
       "sha256": "399155ed5a2c500fcd96aa467f063fe653f8d01035c3e7868fbc83b39bd0352b",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_fable.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_fable.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_fable.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2769570/?l=koreana"
     },
@@ -3281,7 +3281,7 @@
       "sha256": "b960d97957561f7bc5313b685dc0572991e1517ee3e671ac34141b91d9d152d2",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_forever_ago.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_forever_ago.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_forever_ago.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/1215940/?l=koreana"
     },
@@ -3297,7 +3297,7 @@
       "sha256": "d515d43dc7bdedbc0f5103171f483274a5eab87f4213cff3200d2001221464a2",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_gundam_rogue_orbit.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_gundam_rogue_orbit.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_gundam_rogue_orbit.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/1963680/?l=koreana"
     },
@@ -3313,7 +3313,7 @@
       "sha256": "ee1f6132ae26b16dfa93bfb205102e949a15cb4443ccf00a0caf9fcacadb75c7",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_gears_of_war_e_day.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_gears_of_war_e_day.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_gears_of_war_e_day.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3010850/?l=koreana"
     },
@@ -3329,7 +3329,7 @@
       "sha256": "439da8ab77884de774c91990afdfc63eb664472ce57ccfb8cdca0a3a8e0dcfe1",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_hela_of_mice_magic.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_hela_of_mice_magic.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_hela_of_mice_magic.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3161310/?l=koreana"
     },
@@ -3345,7 +3345,7 @@
       "sha256": "94e7ac3467a0d59f579f930c62982b67c34661b5380c816b08ebd98eecfab776",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_hello_kitty_party_land.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_hello_kitty_party_land.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_hello_kitty_party_land.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000118154"
     },
@@ -3361,7 +3361,7 @@
       "sha256": "c6dccb7d003450a342564b7e723e9adb8c16360f02fb828c2dd1c202823dbebf",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_hyrule_warriors_age_of_calamity_definitive_edition.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_hyrule_warriors_age_of_calamity_definitive_edition.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_hyrule_warriors_age_of_calamity_definitive_edition.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000133223"
     },
@@ -3377,7 +3377,7 @@
       "sha256": "ec96b2f39c2ac34c5a6be3d45f0f12d006b68da2a9743fd36690b71b636a2d0c",
       "width": 1600,
       "height": 900,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_intergalactic_the_heretic_prophet.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_intergalactic_the_heretic_prophet.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_intergalactic_the_heretic_prophet.jpg?alt=media",
       "metadataSourceURL": "https://blog.playstation.com/2024/12/12/announcing-intergalactic-the-heretic-prophet-a-new-franchise-from-naughty-dog/"
     },
@@ -3393,7 +3393,7 @@
       "sha256": "ae9d78f475f7e1dca76ebe7f4274a757473fbb3d90df5ec90ec0b487325d1f9f",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_kingdom_hearts_hd_1_5_2_5_remix.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_kingdom_hearts_hd_1_5_2_5_remix.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_kingdom_hearts_hd_1_5_2_5_remix.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2552430/?l=koreana"
     },
@@ -3409,7 +3409,7 @@
       "sha256": "eac91a4d3123b04d0fb237c4d142cd48f910b28e981697ea4da31bea7b62cdf1",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_kingdom_hearts_hd_2_8_final_chapter_prologue.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_kingdom_hearts_hd_2_8_final_chapter_prologue.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_kingdom_hearts_hd_2_8_final_chapter_prologue.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2552440/?l=koreana"
     },
@@ -3425,7 +3425,7 @@
       "sha256": "d0bcc4014a0a96fde1c5fd01d9c1276c46df55ee1a8ff73f26fbf3f0b94f30e7",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_kingdom_hearts_iii_re_mind.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_kingdom_hearts_iii_re_mind.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_kingdom_hearts_iii_re_mind.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2552450/?l=koreana"
     },
@@ -3441,7 +3441,7 @@
       "sha256": "4653e376f51fd40edb0630066cb411fff553a0b74ca6c29d74ac7e0ae3203c34",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_kena_scars_of_kosmora.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_kena_scars_of_kosmora.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_kena_scars_of_kosmora.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3485810/?l=koreana"
     },
@@ -3457,7 +3457,7 @@
       "sha256": "e1d11c561481249752ac4fb49f56ea98ab037d00a880efa85c4315acf44db237",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_king_s_blade.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_king_s_blade.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_king_s_blade.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2204620/?l=koreana"
     },
@@ -3473,7 +3473,7 @@
       "sha256": "15d3530fa1a81712383b34c4c579877311d824893f53ce28eb0c38d014c66d4b",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_kingdom_hearts_iv.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_kingdom_hearts_iv.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_kingdom_hearts_iv.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3216600/?l=koreana"
     },
@@ -3489,7 +3489,7 @@
       "sha256": "7793d450467cdd7a846aea07a96818791585cbe9fff6367f5339cfaaf45cf3ec",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_kirby_and_the_world_beyond.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_kirby_and_the_world_beyond.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_kirby_and_the_world_beyond.jpg?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/au/games/nintendo-switch-2/kirby-and-the-world-beyond/"
     },
@@ -3505,7 +3505,7 @@
       "sha256": "fe31ac47bdbec8f81dbaf81c9f9d7cbcd4fc1966229cfd70ed9696411aff85a7",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_metal_slug_ultimate_collection.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_metal_slug_ultimate_collection.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_metal_slug_ultimate_collection.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3975260/?l=koreana"
     },
@@ -3521,7 +3521,7 @@
       "sha256": "b10b98552abae5a198dad2d9795bce8ad5f10361e5d6e51d63186f314608ad4e",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_metro_2039.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_metro_2039.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_metro_2039.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2590240/?l=koreana"
     },
@@ -3537,7 +3537,7 @@
       "sha256": "602d40313c45297e818a2917897a6765c1b5055eed631af4f124d2a9e57ae1c4",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_marvel_s_guardians_of_the_galaxy_encore_edition.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_marvel_s_guardians_of_the_galaxy_encore_edition.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_marvel_s_guardians_of_the_galaxy_encore_edition.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000119221"
     },
@@ -3553,7 +3553,7 @@
       "sha256": "dcbca1138efd1fc14a16b5d5c1b9e8c2025931f2343d8e9596981204111c1cdf",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_mega_man_dual_override.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_mega_man_dual_override.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_mega_man_dual_override.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4223290/?l=koreana"
     },
@@ -3569,7 +3569,7 @@
       "sha256": "0845dc2eb933983e2c2dc0cbfdcc4ae28fce290b459daf6ef60aad430e191c9d",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_metaphor_refantazio.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_metaphor_refantazio.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_metaphor_refantazio.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2679460/?l=koreana"
     },
@@ -3585,7 +3585,7 @@
       "sha256": "95937ded7a94bc8dba639fef9d7a235104dc9fd79edbbd4f2ed0dea10030f467",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_metroid_ravenous.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_metroid_ravenous.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_metroid_ravenous.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000135073"
     },
@@ -3601,7 +3601,7 @@
       "sha256": "06a1b66e8879da2fb4ddd0f69ae87c576bd3bba1dfebe0e6ff1e3d2171b7e739",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_minecraft_dungeons_ii.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_minecraft_dungeons_ii.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_minecraft_dungeons_ii.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/1912410/?l=koreana"
     },
@@ -3617,7 +3617,7 @@
       "sha256": "2007773569ba06f5d0a0d85c0218959f97e8c88b0b94fe8be56f74e68aac8157",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_monster_hunter_wilds.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_monster_hunter_wilds.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_monster_hunter_wilds.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2246340/?l=koreana"
     },
@@ -3633,7 +3633,7 @@
       "sha256": "50a4ebcddcdc08f220df2ca9106d1bd8cb19a0f032c56989002224e0a8255d30",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_moomin_midsummer_madness.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_moomin_midsummer_madness.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_moomin_midsummer_madness.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4463520/?l=koreana"
     },
@@ -3649,7 +3649,7 @@
       "sha256": "53d26cee0b49933304148ed3509f01e5f48143d4d46b3cfdfb1a55b2a319b7f5",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_muramasa_revenant_blades.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_muramasa_revenant_blades.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_muramasa_revenant_blades.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4253770/?l=koreana"
     },
@@ -3665,7 +3665,7 @@
       "sha256": "c282efb3b6cb3f5075e77273007d56109c6c32799bef83363eb37ceaafdbc560",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_nintendo_switch_sports_resort.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_nintendo_switch_sports_resort.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_nintendo_switch_sports_resort.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000125147"
     },
@@ -3681,7 +3681,7 @@
       "sha256": "eb1c58092ec2afbf1e6f6efc3d08462831e03063436129458cc461b3ad153f5d",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_octopath_traveler_ii.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_octopath_traveler_ii.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_octopath_traveler_ii.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/1971650/?l=koreana"
     },
@@ -3697,7 +3697,7 @@
       "sha256": "10baf067f18373eb1374ba83309a712591a6adc0d2f510a09e88f67a05a65773",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_one_piece_grand_gourmet.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_one_piece_grand_gourmet.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_one_piece_grand_gourmet.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3905010/?l=koreana"
     },
@@ -3713,7 +3713,7 @@
       "sha256": "f430c0c80da1117aa61e0d9ac10422452b0f3c91d0c4f4737c3a8a5bfd7beb4e",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_onyx_the_dark_grip.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_onyx_the_dark_grip.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_onyx_the_dark_grip.jpg?alt=media",
       "metadataSourceURL": "https://www.blooberteam.com/news/2026/9/10/broken-mirror-games-reveals-onyx-the-dark-grip-exclusively-for-nintendo-switch-2"
     },
@@ -3729,7 +3729,7 @@
       "sha256": "16e4ffefab93ccacc431e9995d4039417d734b04d1ff9853b9c11f5d7580d466",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_ondeh_ondeh_kaya_s_tasty_tale.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_ondeh_ondeh_kaya_s_tasty_tale.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_ondeh_ondeh_kaya_s_tasty_tale.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4013150/?l=koreana"
     },
@@ -3745,7 +3745,7 @@
       "sha256": "788488ea6b78a7e475e12a3d6c070171d3ccfd60592826ea8e7be866c53ff2a8",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_persona_4_revival.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_persona_4_revival.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_persona_4_revival.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2963950/?l=koreana"
     },
@@ -3761,7 +3761,7 @@
       "sha256": "1fac7f0610723b93539d5108a1942b2dafa05ebd80a5febca7f0a00c5276da75",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_persona_6.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_persona_6.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_persona_6.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2649560/?l=koreana"
     },
@@ -3777,7 +3777,7 @@
       "sha256": "57487ceebf0f6f3f724aeb9d1be85c540bef40f9d4422ae5e816cbdcdc2402c9",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_phantom_blade_zero.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_phantom_blade_zero.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_phantom_blade_zero.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4115450/?l=koreana"
     },
@@ -3793,7 +3793,7 @@
       "sha256": "f13c8b97f83b7df99fe2bc20a4edec14141fd62c9fa06a34843629ab17b4895d",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_pikmin_4_nintendo_switch_2_edition_dandori_academy.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_pikmin_4_nintendo_switch_2_edition_dandori_academy.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_pikmin_4_nintendo_switch_2_edition_dandori_academy.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70050000081277"
     },
@@ -3809,7 +3809,7 @@
       "sha256": "775e10eab21575460b587e78eea0dfa845f10aa960ce3732ca33c25a704f970e",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_planet_zoo_2.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_planet_zoo_2.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_planet_zoo_2.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3219030/?l=koreana"
     },
@@ -3825,7 +3825,7 @@
       "sha256": "db72376dd1c742b91651e83a0dbcc5bf696cf002f5ace3c33196f4e3bf296022",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_pok_mon_waves.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_pok_mon_waves.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_pok_mon_waves.jpg?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Pokemon-Waves-3039100.html"
     },
@@ -3841,7 +3841,7 @@
       "sha256": "db72376dd1c742b91651e83a0dbcc5bf696cf002f5ace3c33196f4e3bf296022",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_pok_mon_winds.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_pok_mon_winds.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_pok_mon_winds.jpg?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Pokemon-Winds-3039085.html"
     },
@@ -3857,7 +3857,7 @@
       "sha256": "6d34b09e160513b533bd18f42e4785e3dcf352990061840e9ce116f6646adff6",
       "width": 1600,
       "height": 900,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_professor_layton_and_the_new_world_of_steam.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_professor_layton_and_the_new_world_of_steam.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_professor_layton_and_the_new_world_of_steam.jpg?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/au/games/nintendo-switch/professor-layton-and-the-new-world-of-steam/"
     },
@@ -3873,7 +3873,7 @@
       "sha256": "02f20ac74eb67710ac6e74fe59499200e1e3175319c153c482f9cd30285f481b",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_rayman_legends_retold.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_rayman_legends_retold.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_rayman_legends_retold.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4084710/?l=koreana"
     },
@@ -3889,7 +3889,7 @@
       "sha256": "8b505f3b91aa4ae595591f4199ed8e574c8c7bc6b7b06246da5d02e4a91e6e7d",
       "width": 1600,
       "height": 900,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_resident_evil_2_deluxe_edition.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_resident_evil_2_deluxe_edition.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_resident_evil_2_deluxe_edition.jpg?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/au/games/nintendo-switch-2/resident-evil-2-deluxe-edition/"
     },
@@ -3905,7 +3905,7 @@
       "sha256": "e841ec4a755d609abcab3b7d218f7276271ee75f1e50edeeeafd6f19b282acea",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_resident_evil_3.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_resident_evil_3.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_resident_evil_3.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/952060/?l=koreana"
     },
@@ -3921,7 +3921,7 @@
       "sha256": "65fd0315f0345bd3c3237d6347ff439fdee936e18c3887220301b098a517c4f1",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_resident_evil_4_gold_edition.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_resident_evil_4_gold_edition.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_resident_evil_4_gold_edition.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000122500"
     },
@@ -3937,7 +3937,7 @@
       "sha256": "4d8b59cf82e7b00143a58937908794c824ae5d4bb5ab40fb141ddfdb354ea841",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_rev_noir.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_rev_noir.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_rev_noir.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3353450/?l=koreana"
     },
@@ -3953,7 +3953,7 @@
       "sha256": "7e6b0595ebf0cab8bb996f31cc587e9bbbb963e498a8a2d567d1d1740d93d67a",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_romancing_saga_3_destinies_united.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_romancing_saga_3_destinies_united.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_romancing_saga_3_destinies_united.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4214960/?l=koreana"
     },
@@ -3969,7 +3969,7 @@
       "sha256": "e414f6f82df49294c5b1f621395c7b48c3bd0bdab0d5580064ab95207d55cc8f",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_star_wars_galactic_racer.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_star_wars_galactic_racer.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_star_wars_galactic_racer.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4078430/?l=koreana"
     },
@@ -3985,7 +3985,7 @@
       "sha256": "f097a714e94669afc2ed378d60a306bc7fbf3b0c921ed86aefcffbc4aef38a4a",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_spyro_a_realm_beyond.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_spyro_a_realm_beyond.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_spyro_a_realm_beyond.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4245560/?l=koreana"
     },
@@ -4001,7 +4001,7 @@
       "sha256": "2a076f5bc4b883af1bc98bea2788ad36c8f23970622b25f658f7617e0c1465ef",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_star_trek_outposts_unknown.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_star_trek_outposts_unknown.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_star_trek_outposts_unknown.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3469910/?l=koreana"
     },
@@ -4017,7 +4017,7 @@
       "sha256": "8fa122d56dc75f4a0c1e0b5b3ec80751facd770c39d6a9b990bf4473288f536c",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_state_of_decay_3.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_state_of_decay_3.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_state_of_decay_3.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/1340720/?l=koreana"
     },
@@ -4033,7 +4033,7 @@
       "sha256": "48603752ec31582638fbcc0bb0b55b0479dbd525fed0bc1e528064684cb9d319",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_stellar_blade_complete_edition.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_stellar_blade_complete_edition.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_stellar_blade_complete_edition.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000123392"
     },
@@ -4049,7 +4049,7 @@
       "sha256": "9175fb7055fafdd81fd0d53e3255e11544f9e2cd404a6fe22ec132794de02327",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_tales_of_eternia_remastered.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_tales_of_eternia_remastered.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_tales_of_eternia_remastered.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3470960/?l=koreana"
     },
@@ -4065,7 +4065,7 @@
       "sha256": "d03e35c8eece63fa7ce3fa6c1c8882a58b0d397985862f21f2542aabb27d59cf",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_the_duskbloods.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_the_duskbloods.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_the_duskbloods.jpg?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/au/games/nintendo-switch-2/the-duskbloods/"
     },
@@ -4081,7 +4081,7 @@
       "sha256": "b74a67529b97fc87ae2daf5d0c35709aa4071e4df15ee66ade855c2c34d75097",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_the_elder_scrolls_vi.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_the_elder_scrolls_vi.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_the_elder_scrolls_vi.jpg?alt=media",
       "metadataSourceURL": "https://bethesda.net/en-US/news/starfield-and-the-elder-scrolls-vi-teaser"
     },
@@ -4097,7 +4097,7 @@
       "sha256": "6e2f265600dd993087c508c0fbd9605b6a6d92b3df177d18cfe68183b32dc07e",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_the_legend_of_zelda_ocarina_of_time.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_the_legend_of_zelda_ocarina_of_time.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_the_legend_of_zelda_ocarina_of_time.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000130794"
     },
@@ -4113,7 +4113,7 @@
       "sha256": "5c1347153324d66305e3e6b83ca0293434bafd2758c861760dd67d8ce6fefe86",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_the_witch_s_bakery.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_the_witch_s_bakery.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_the_witch_s_bakery.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2967950/?l=koreana"
     },
@@ -4129,7 +4129,7 @@
       "sha256": "78fab27a8aa71f5aa982d385619b2f44dac74371980853c3a83e0fdab118d592",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_the_witcher_3_wild_hunt_remastered.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_the_witcher_3_wild_hunt_remastered.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_the_witcher_3_wild_hunt_remastered.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000128696"
     },
@@ -4145,7 +4145,7 @@
       "sha256": "0a898e1a3815000873c234031f1703cda708c918b051b45e7e795392e272eef0",
       "width": 1200,
       "height": 630,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_the_witcher_iv.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_the_witcher_iv.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_the_witcher_iv.jpg?alt=media",
       "metadataSourceURL": "https://www.cdprojekt.com/en/media/news/the-witcher-iv-revealed-at-the-game-awards/"
     },
@@ -4161,7 +4161,7 @@
       "sha256": "77faf90a93ff4ad44aa109f0fb2c5050e3271abb7be0840a38a434978bfcf2b3",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_tomb_raider_legacy_of_atlantis.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_tomb_raider_legacy_of_atlantis.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_tomb_raider_legacy_of_atlantis.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3558670/?l=koreana"
     },
@@ -4177,7 +4177,7 @@
       "sha256": "cf72effc6ebfbbc3beec939149593bb1a921c6d8022eef775519116e54794aed",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_tormented_souls_2.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_tormented_souls_2.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_tormented_souls_2.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2464280/?l=koreana"
     },
@@ -4193,7 +4193,7 @@
       "sha256": "db1ea588135de1c6007a3689e378147061e021c5c9719d47de8ca141edf2e192",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_trash_day.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_trash_day.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_trash_day.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3314580/?l=koreana"
     },
@@ -4209,7 +4209,7 @@
       "sha256": "cd666863eef20e42a8bde510e575d84325af02e67485cef3677811e769c0fe6a",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_underkeep.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_underkeep.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_underkeep.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2411200/?l=koreana"
     },
@@ -4225,7 +4225,7 @@
       "sha256": "9ff110d1fc56419d1f95db84fd3e8d738b84fa2ced0036355f0a4523d568d7fa",
       "width": 400,
       "height": 150,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_until_dawn_2.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_until_dawn_2.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_until_dawn_2.jpg?alt=media",
       "metadataSourceURL": "https://store.playstation.com/ko-kr/product/EP9000-PPSA05719_00-UNTILDAWN2000001"
     },
@@ -4241,7 +4241,7 @@
       "sha256": "e10a4bed4c04749dc6f0ccbb0f3bfddd872d0051f74bd2705590f85e4ca24559",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_untitled_john_wick_game.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_untitled_john_wick_game.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_untitled_john_wick_game.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2947860/?l=koreana"
     },
@@ -4257,7 +4257,7 @@
       "sha256": "443111284ddcea6ccc370154d12d033752087dce23429c8b3e50dc0125dfcf32",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_valor_mortis.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_valor_mortis.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_valor_mortis.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2828710/?l=koreana"
     },
@@ -4273,7 +4273,7 @@
       "sha256": "4cf7591ba66c721b2648eeeecfb4dfed595aaab5a56cb863a22ea19d7bd758c8",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_warhammer_40_000_boltgun_2.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_warhammer_40_000_boltgun_2.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_warhammer_40_000_boltgun_2.jpg?alt=media",
       "metadataSourceURL": "https://store.playstation.com/ko-kr/product/UP3643-PPSA33779_00-0610196068188426"
     },
@@ -4289,7 +4289,7 @@
       "sha256": "5ac557c20a46176bfc53ea4a80d45eed612279ad4b33cc762f40a77b40097aaa",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_warhammer_40_000_dawn_of_war_iv.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_warhammer_40_000_dawn_of_war_iv.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_warhammer_40_000_dawn_of_war_iv.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2272360/?l=koreana"
     },
@@ -4305,7 +4305,7 @@
       "sha256": "a43dcbca5698a0a7a593fefb01c68e627aa297f1d133c3b359cde3597ce033ba",
       "width": 460,
       "height": 215,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_we_were_here_tomorrow.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_we_were_here_tomorrow.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_we_were_here_tomorrow.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2315050/?l=koreana"
     },
@@ -4321,7 +4321,7 @@
       "sha256": "a4817a9ea6f468fa3ecc0e61dfbd04c7dee1b8cd34b5f170442ced1ebc0b8ea1",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_xenoblade_chronicles_3_nintendo_switch_2_edition.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_xenoblade_chronicles_3_nintendo_switch_2_edition.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_xenoblade_chronicles_3_nintendo_switch_2_edition.jpg?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70050000075169"
     },
@@ -4337,7 +4337,7 @@
       "sha256": "a7e22cc2f61cd05ea8a67b2eb42c535b0c93c5cbccd4e887d8ee854b9925f82c",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_xenoblade_genesis.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_xenoblade_genesis.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_xenoblade_genesis.jpg?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/au/games/nintendo-switch-2/xenoblade-genesis/"
     },
@@ -4353,7 +4353,7 @@
       "sha256": "4d213e7d5a9011de67a6aec185263b1d7e4ccfcdcf556f1acd6e7f1b3877cf0b",
       "width": 1280,
       "height": 720,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_yu_gi_oh_tag_force_gx.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ced8b5974b751ef8c952e20da28a2ee2f189fd13/posters/games/catalog_games_yu_gi_oh_tag_force_gx.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_yu_gi_oh_tag_force_gx.jpg?alt=media",
       "metadataSourceURL": "https://www.konami.com/yugioh/tagforcegx/en-gb/"
     }
