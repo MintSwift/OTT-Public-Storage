@@ -6024,6 +6024,38 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@9f29a3d33891c11a6593a42bb033d4aa5be7e95b/posters/upcoming/catalog_series_disney_coven_academy_20261002.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_coven_academy_20261002.jpg?alt=media",
       "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-5526d12b-7904-40cd-9bda-5af3fbfe3077"
+    },
+    {
+      "document": "upcoming/disney_love_doctor_20261005",
+      "title": "연애박사",
+      "mediaType": "series",
+      "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/01a0c768-a76c-79a8-adc7-8195e127a754/compose?format=webp&width=1600",
+      "objectBase": "posters/upcoming/catalog_series_disney_between_steps_20261005",
+      "objectPath": "posters/upcoming/catalog_series_disney_between_steps_20261005.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 104076,
+      "sha256": "3b878ca9941e35b3bf6524d783546af54e3eb270dc7b5526752295cf9b052ef3",
+      "width": 1200,
+      "height": 675,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@213715be91b78041996d26ea5ebd9133f374f914/posters/upcoming/catalog_series_disney_between_steps_20261005.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_between_steps_20261005.jpg?alt=media",
+      "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-994e7dec-fcbd-416e-ab2e-b4de8cc6d154"
+    },
+    {
+      "document": "upcoming/disney_kardashians_s8_20261008",
+      "title": "카다시안 패밀리 시즌 8",
+      "mediaType": "series",
+      "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019a0ec9-0eba-7dec-8e7a-f88174680802/compose?format=webp&width=1600",
+      "objectBase": "posters/upcoming/catalog_series_disney_kardashians_s8_20261008",
+      "objectPath": "posters/upcoming/catalog_series_disney_kardashians_s8_20261008.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 129012,
+      "sha256": "9bb302110fef57b4995ede4c10b29d692e12584957fb3888e091642d5d8e27c5",
+      "width": 1200,
+      "height": 675,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@213715be91b78041996d26ea5ebd9133f374f914/posters/upcoming/catalog_series_disney_kardashians_s8_20261008.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_kardashians_s8_20261008.jpg?alt=media",
+      "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-7840bf30-f440-48d4-bf81-55d8cb24457a"
     }
   ]
 }
