@@ -6392,6 +6392,23 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@66ca1d66bba62b9ec0e67dbfe05dd9300a20638e/posters/upcoming/catalog_series_disney_teachers_s3_20261015.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_teachers_s3_20261015.jpg?alt=media",
       "metadataSourceURL": "https://www.youtube.com/post/Ugkx_9Y7i8vbdGK-XnknEBqLWLT_7Yj6890X"
+    },
+    {
+      "document": "upcoming/tokyo_revengers_santen_war_arc_20261002",
+      "title": "도쿄 리벤저스 시즌 3",
+      "mediaType": "series",
+      "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/5e860c0b-2671-4859-8d03-a051de94f16b/compose?format=webp&width=1280",
+      "objectBase": "posters/upcoming/catalog_anime_tokyo_revengers_santen_war_arc_20261002",
+      "objectPath": "posters/upcoming/catalog_anime_tokyo_revengers_santen_war_arc_20261002.webp",
+      "contentType": "image/webp",
+      "bytes": 30794,
+      "sha256": "f43cc9fa6f07953f0752ddd51251c6663dc240b7b30ad6018c31b5c6cfeb70d4",
+      "width": 1280,
+      "height": 720,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@dd169652f9c75a484aaa898f2520463bc91c8eb2/posters/upcoming/catalog_anime_tokyo_revengers_santen_war_arc_20261002.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_tokyo_revengers_santen_war_arc_20261002.webp?alt=media",
+      "contentKind": "animation",
+      "metadataSourceURL": "https://www.youtube.com/post/Ugkx_9Y7i8vbdGK-XnknEBqLWLT_7Yj6890X"
     }
   ]
 }
