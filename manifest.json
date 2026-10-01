@@ -6232,6 +6232,22 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ce53267b2e74e1ef6a1661d6c1cb51969a90af02/posters/upcoming/catalog_series_disney_pupstruction_s3_20261007.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_pupstruction_s3_20261007.jpg?alt=media",
       "metadataSourceURL": "https://www.youtube.com/post/Ugkx_9Y7i8vbdGK-XnknEBqLWLT_7Yj6890X"
+    },
+    {
+      "document": "upcoming/disney_reasonable_doubt_s4_20261006",
+      "title": "합리적 의심 시즌 4",
+      "mediaType": "series",
+      "sourceURL": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/10aed584-fa92-4611-a39f-19aac2358224/compose?aspectRatio=1.78&format=webp&width=1200",
+      "objectBase": "posters/upcoming/catalog_series_disney_reasonable_doubt_s4_20261006",
+      "objectPath": "posters/upcoming/catalog_series_disney_reasonable_doubt_s4_20261006.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 106159,
+      "sha256": "cfbb855fd592f2517e1e4b819d76c1d0bdf6887ffa9960886cb9e68a6efe1811",
+      "width": 1200,
+      "height": 675,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@157f77464847cdd778e46506c836bdb3b71d0192/posters/upcoming/catalog_series_disney_reasonable_doubt_s4_20261006.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_reasonable_doubt_s4_20261006.jpg?alt=media",
+      "metadataSourceURL": "https://www.disneyplus.com/en-kr/browse/entity-226c1cc5-ecc9-4d26-83a6-40131a93ed19"
     }
   ]
 }
