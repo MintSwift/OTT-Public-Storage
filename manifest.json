@@ -6056,6 +6056,22 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@213715be91b78041996d26ea5ebd9133f374f914/posters/upcoming/catalog_series_disney_kardashians_s8_20261008.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_kardashians_s8_20261008.jpg?alt=media",
       "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-7840bf30-f440-48d4-bf81-55d8cb24457a"
+    },
+    {
+      "document": "upcoming/disney_city_of_blood_20261014",
+      "title": "시티 오브 블러드",
+      "mediaType": "series",
+      "sourceURL": "https://lumiere-a.akamaihd.net/v1/images/screenshot_2026_08_19_at_15_b275569f.png?region=12%2C0%2C1750%2C984",
+      "objectBase": "posters/upcoming/catalog_series_disney_city_of_blood_20261014",
+      "objectPath": "posters/upcoming/catalog_series_disney_city_of_blood_20261014.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 232675,
+      "sha256": "90f3c8ac40fe363a735b628e289fc4463e7811e0678be3f98e059b01c5274202",
+      "width": 1200,
+      "height": 674,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@c703eca55a9e8bf626b43c12d83efb57b0523c99/posters/upcoming/catalog_series_disney_city_of_blood_20261014.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_city_of_blood_20261014.jpg?alt=media",
+      "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-f473a263-a4ce-4f27-986d-8f79f80185a0"
     }
   ]
 }
