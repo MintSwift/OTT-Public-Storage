@@ -6005,7 +6005,7 @@
       "sha256": "90f0ec98bbad25365b24a4f7e1c007076707b9e728898b5a9a7a0bb950a50cd1",
       "width": 1200,
       "height": 674,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_disney_africa_earths_wild_home_20261003.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@d0d7e63bf38543af6fd9c64f5e5f059817d15c4c/posters/upcoming/catalog_series_disney_africa_earths_wild_home_20261003.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_africa_earths_wild_home_20261003.jpg?alt=media",
       "metadataSourceURL": "https://www.disneyplus.com/ko-kr/browse/entity-7456f3ff-dbb1-4926-8a42-121d980378f3"
     }
