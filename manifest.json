@@ -6460,6 +6460,23 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_funbarus_20261003.jpg?alt=media",
       "contentKind": "animation",
       "metadataSourceURL": "https://prtimes.jp/main/html/rd/p/000000540.000026206.html"
+    },
+    {
+      "document": "upcoming/junket_bank_anime",
+      "title": "JUNKETBANK",
+      "mediaType": "series",
+      "sourceURL": "https://junketbank-anime.com/wp/wp-content/themes/junketbunk-anime-theme/ogp.png",
+      "objectBase": "posters/upcoming/catalog_anime_junket_bank",
+      "objectPath": "posters/upcoming/catalog_anime_junket_bank.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 243449,
+      "sha256": "16d60a3ce8485e9bc7013926716eb76cbb65307877a3900b62f2a1d8f6a63a7f",
+      "width": 1200,
+      "height": 630,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@146e868b9089b5c7d50362d1a5acb10a5ad16ef2/posters/upcoming/catalog_anime_junket_bank.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_junket_bank.jpg?alt=media",
+      "contentKind": "animation",
+      "metadataSourceURL": "https://junketbank-anime.com/news/110/"
     }
   ]
 }
