@@ -5994,6 +5994,22 @@
       "metadataSourceURL": "https://store.steampowered.com/app/2482760/Hunting_Simulator_3/"
     },
     {
+      "document": "games/silver_pines_steam_2333000",
+      "title": "Silver Pines",
+      "mediaType": "game",
+      "sourceURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333000/a7630a1d9bee1267d7ebec560e2285aff46d82c9/ss_a7630a1d9bee1267d7ebec560e2285aff46d82c9.1920x1080.jpg?t=1790863271",
+      "objectBase": "posters/games/catalog_games_silver_pines",
+      "objectPath": "posters/games/catalog_games_silver_pines.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 299773,
+      "sha256": "1a9522969cea9ed117b5970cbd024e0370a4e5d8e1c48a7dc92bcd97e44b4f01",
+      "width": 1920,
+      "height": 1080,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_silver_pines.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_silver_pines.jpg?alt=media",
+      "metadataSourceURL": "https://store.steampowered.com/app/2333000/?cc=kr&l=korean"
+    },
+    {
       "document": "upcoming/disney_africa_earths_wild_home_20261003",
       "title": "아프리카: 야생의 심장",
       "mediaType": "series",
