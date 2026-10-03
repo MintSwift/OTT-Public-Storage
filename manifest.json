@@ -6005,7 +6005,7 @@
       "sha256": "1a9522969cea9ed117b5970cbd024e0370a4e5d8e1c48a7dc92bcd97e44b4f01",
       "width": 1920,
       "height": 1080,
-      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_silver_pines.jpg",
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@406d37cf619b971bbcfb3bfdd6b0f919c7a5b2ff/posters/games/catalog_games_silver_pines.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_silver_pines.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2333000/?cc=kr&l=korean"
     },
