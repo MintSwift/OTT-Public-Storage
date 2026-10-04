@@ -11750,6 +11750,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_xenoblade_chronicles_3_nintendo_switch_2_edition_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_xenoblade_chronicles_3_nintendo_switch_2_edition_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/au/games/nintendo-switch-2/xenoblade-chronicles-3-nintendo-switch-2-edition/"
+    },
+    {
+      "document": "games/DRAGON QUEST MONSTERS: The Withered World",
+      "title": "드래곤 퀘스트 몬스터즈 4 메마른 나라의 비앙카와 플로라",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://cdn11.bigcommerce.com/s-6rs11v9w2d/images/stencil/1280x1280/products/4069/20943/DQMTWW_SQEX_US__69016.1781005771.jpg?c=1",
+      "objectBase": "posters/games/catalog_games_dragon_quest_monsters_the_withered_world_portrait",
+      "objectPath": "posters/games/catalog_games_dragon_quest_monsters_the_withered_world_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 152588,
+      "sha256": "6d614615e55f7d64989935a32ef7b172dd08979f7aaef0647307b19bbd5fb18c",
+      "width": 500,
+      "height": 718,
+      "aspectRatio": 0.6963788300835655,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_dragon_quest_monsters_the_withered_world_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_dragon_quest_monsters_the_withered_world_portrait.webp?alt=media",
+      "metadataSourceURL": "https://na.store.square-enix-games.com/dragon-quest-monsters-the-withered-world"
     }
   ]
 }
