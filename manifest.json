@@ -9881,6 +9881,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/disney_kidnap_game_20261006",
+      "title": "키드냅 게임",
+      "mediaType": "series",
+      "sourceURL": "https://0.soompi.io/wp-content/uploads/2026/09/20183310/kidnap-game-1-3.jpg",
+      "objectBase": "posters/upcoming/catalog_series_disney_kidnap_game_20261006",
+      "objectPath": "posters/upcoming/catalog_series_disney_kidnap_game_20261006_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 156442,
+      "sha256": "27b13d12953c43b3d0a9789070875e55371541390601b0fb37af16401a6e84aa1cbc",
+      "width": 1200,
+      "height": 1802,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@1411374c5874b6a1b0fb37af16401a6e84aa1cbc/posters/upcoming/catalog_series_disney_kidnap_game_20261006_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_kidnap_game_20261006_portrait.webp?alt=media",
+      "metadataSourceURL": "https://m.entertain.naver.com/now/article/465/0000019836",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/disney_locker_diaries_zombies_20261028",
       "title": "라커 다이어리: 좀비스",
       "mediaType": "series",
