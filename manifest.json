@@ -2405,6 +2405,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "games/Persona 4 Revival",
+      "title": "페르소나4 리바이벌",
+      "mediaType": "game",
+      "sourceURL": "https://asia.sega.com/p4r/en/resources/img/common/thumb_navigation_kv.CUN1AZwC.webp",
+      "objectBase": "posters/games/catalog_games_persona_4_revival",
+      "objectPath": "posters/games/catalog_games_persona_4_revival_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 166696,
+      "sha256": "29abd548a52d06765bbd17f8c0ffd7f3d471eaab858b36a920970309e14dda39",
+      "width": 739,
+      "height": 1000,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@1b8290b32d92a8c8ad3ff1ddb09e2431cb204f31/posters/games/catalog_games_persona_4_revival_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_persona_4_revival_portrait.webp?alt=media",
+      "metadataSourceURL": "https://asia.sega.com/p4r/en/",
+      "orientation": "portrait"
+    },
+    {
       "document": "games/Persona 6",
       "title": "페르소나6",
       "mediaType": "game",
@@ -2437,6 +2454,23 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_phantom_blade_zero.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4115450/?l=koreana",
       "orientation": "landscape"
+    },
+    {
+      "document": "games/Phantom Blade Zero",
+      "title": "팬텀 블레이드 제로",
+      "mediaType": "game",
+      "sourceURL": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2809/687fa06eb1afc035d66ff1fe405d266a003d6b2326b430fa.jpg",
+      "objectBase": "posters/games/catalog_games_phantom_blade_zero",
+      "objectPath": "posters/games/catalog_games_phantom_blade_zero_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 390318,
+      "sha256": "973ff30bd35c502bfc4440c1a22f13ea0d0069915e90aabb671ff3798edeb7a0",
+      "width": 1200,
+      "height": 1800,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@1b8290b32d92a8c8ad3ff1ddb09e2431cb204f31/posters/games/catalog_games_phantom_blade_zero_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_phantom_blade_zero_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.playstation.com/en-us/games/phantom-blade-zero/",
+      "orientation": "portrait"
     },
     {
       "document": "games/Pikmin 4 — Nintendo Switch 2 Edition + Dandori Academy",
