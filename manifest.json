@@ -11894,6 +11894,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_pikmin_4_nintendo_switch_2_edition_dandori_academy_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_pikmin_4_nintendo_switch_2_edition_dandori_academy_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-dandori-academy-125241/"
+    },
+    {
+      "document": "upcoming/netflix_pat_mat_diy_20261011",
+      "title": "패트와 매트: 수리 대작전",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://www.bioscop.cz/wp-content/uploads/2018/01/Pat-a-Mat-kutilske-trampoty-plakat-na-web-1413x2000.png",
+      "objectBase": "posters/upcoming/catalog_anime_netflix_pat_mat_diy_20261011_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_netflix_pat_mat_diy_20261011_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 233664,
+      "sha256": "4b1009485249df1df7ffd8a10d9c984d1886a7f448e09d2c678441f7a9e1e961",
+      "width": 900,
+      "height": 1274,
+      "aspectRatio": 0.706436420722135,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_pat_mat_diy_20261011_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_pat_mat_diy_20261011_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.bioscop.cz/filmy/pat-a-mat-3"
     }
   ]
 }
