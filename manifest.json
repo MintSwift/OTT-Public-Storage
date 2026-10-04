@@ -8475,6 +8475,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_norm_the_tale_of_norm_macdonald_20261016",
+      "title": "Norm: The Tale of Norm Macdonald",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://resizing.flixster.com/Z59TkZA7VqKqv582DDJJNLPc8Zo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMzMjFiMDNlLTc1NDctNDM4ZC05ODQzLTkzMTQwZWY0ZjdhNi5qcGc=",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_norm_the_tale_of_norm_macdonald_20261016_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_norm_the_tale_of_norm_macdonald_20261016_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 113005,
+      "sha256": "aee90e5b571b015cc843982a458c819cb4a0959923f2405ec35e45dd52e87980",
+      "width": 480,
+      "height": 711,
+      "aspectRatio": 0.6751054852320675,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@769634600c9c82c5c9369139228d9d2303acac95/posters/upcoming/catalog_movies_netflix_norm_the_tale_of_norm_macdonald_20261016_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_norm_the_tale_of_norm_macdonald_20261016_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.rottentomatoes.com/m/norm_the_tale_of_norm_macdonald"
+    },
+    {
       "document": "upcoming/netflix_on_behalf_of_my_son_2026",
       "title": "On Behalf of My Son",
       "mediaType": "movie",
