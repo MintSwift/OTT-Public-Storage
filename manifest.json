@@ -12506,6 +12506,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_ghost_of_yotei_complete_edition_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_ghost_of_yotei_complete_edition_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.playstation.com/en-us/games/ghost-of-yotei/"
+    },
+    {
+      "document": "upcoming/kusuriya_s3_20261002",
+      "title": "약사의 혼잣말 시즌 3",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://kusuriyanohitorigoto.jp/kh/wp-content/uploads/2026/08/%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%BA%E3%80%90%E8%96%AC%E5%B1%8B%E3%80%913%E6%9C%9FKV%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.jpg",
+      "objectBase": "posters/upcoming/catalog_anime_kusuriya_s3_20261002_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_kusuriya_s3_20261002_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 351096,
+      "sha256": "0bd8d2d26786ade43235745ca322c6723a711378038c38629765a097885e4315",
+      "width": 1200,
+      "height": 1697,
+      "aspectRatio": 0.70713,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_kusuriya_s3_20261002_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_kusuriya_s3_20261002_portrait.webp?alt=media",
+      "metadataSourceURL": "https://kusuriyanohitorigoto.jp/news/2623/"
     }
   ]
 }
