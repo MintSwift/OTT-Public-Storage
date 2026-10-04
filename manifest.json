@@ -8319,6 +8319,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_hunchback_soul_of_paris_2026",
+      "title": "The Hunchback, Soul of Paris",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://fr.web.img6.acsta.net/img/56/5c/565cdbfcc46704c57c8575724a1f90de.jpg",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_hunchback_soul_of_paris_2026_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_hunchback_soul_of_paris_2026_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 286042,
+      "sha256": "cf6fdde821ca286376d233e636b109cc55786d2daec2cab8ec6db402dffc7329",
+      "width": 1080,
+      "height": 1350,
+      "aspectRatio": 0.8,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@b82e4224cee2bb855fe12925b8bc144149166c31/posters/upcoming/catalog_movies_netflix_hunchback_soul_of_paris_2026_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_hunchback_soul_of_paris_2026_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1000025934.html"
+    },
+    {
       "document": "upcoming/netflix_in_waves_20261211",
       "title": "In Waves",
       "mediaType": "movie",
