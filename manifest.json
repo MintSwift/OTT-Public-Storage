@@ -8370,6 +8370,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_la_bola_negra_20261202",
+      "title": "La bola negra",
+      "mediaType": "movie",
+      "sourceURL": "https://mcusercontent.com/0dfe34473811352b19c645ac3/_compresseds/87aabe4f-6e5a-9d94-86cc-eda6b39075aa.jpg",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_la_bola_negra_20261202_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_la_bola_negra_20261202_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 354258,
+      "sha256": "08f37137c4ed28e1a545b0ddf49698b074daa25f7195be5b15a842a2698f784f",
+      "width": 1050,
+      "height": 1500,
+      "aspectRatio": 0.7,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_la_bola_negra_20261202_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_la_bola_negra_20261202_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.movistarplus.es/comunicacion/notas-de-prensa/cartel-oficial-de-la-bola-negra-la-pelicula-original-movistar-plus-de-javier-calvo-y-javier-ambrossi/",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/netflix_march_of_the_jaguars_2026",
       "title": "March of the Jaguars",
       "mediaType": "movie",
