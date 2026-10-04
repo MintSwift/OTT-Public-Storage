@@ -875,6 +875,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "games/Call of Duty: Modern Warfare 4",
+      "title": "콜 오브 듀티®: 모던 워페어 4",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://press.activision.com/content/dam/atvi/activision/atvi-touchui/press-2025/home/franchise-key-art/call-of-duty/modern-warfare-4.webp",
+      "objectBase": "posters/games/catalog_games_call_of_duty_modern_warfare_4_portrait",
+      "objectPath": "posters/games/catalog_games_call_of_duty_modern_warfare_4_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 99140,
+      "sha256": "14ac86841cc5cd92813a5dc37e246a004fc982295c9cc4faeca46b9365c2c050",
+      "width": 600,
+      "height": 856,
+      "aspectRatio": 0.7009345794392523,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@9836509db466e5032ff894183d5d17ebfd778dbe/posters/games/catalog_games_call_of_duty_modern_warfare_4_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_call_of_duty_modern_warfare_4_portrait.webp?alt=media",
+      "metadataSourceURL": "https://press.activision.com/downloads"
+    },
+    {
       "document": "games/Castlevania: Belmont's Curse",
       "title": "Castlevania: Belmont's Curse",
       "mediaType": "game",
