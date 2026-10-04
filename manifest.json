@@ -12416,6 +12416,42 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_master_hajun_20261015_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_master_hajun_20261015_portrait.webp?alt=media",
       "metadataSourceURL": "https://ent.sbs.co.kr/news/article.do?article_id=E10010322387&cooper=ent.sbs.co.kr"
+    },
+    {
+      "document": "upcoming/netflix_kim_hyeja_20261005",
+      "title": "김혜자의 안부, 죽지마세요",
+      "mediaType": "series",
+      "orientation": "landscape",
+      "sourceURL": "https://img.sbs.co.kr/newsnet/etv/upload/2026/10/01/30001091019_1280.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_kim_hyeja_20261005_landscape",
+      "objectPath": "posters/upcoming/catalog_series_netflix_kim_hyeja_20261005_landscape.webp",
+      "contentType": "image/webp",
+      "bytes": 97166,
+      "sha256": "21a5369d4c741606ab0bb1e5bbf2cf9d28aa1e14fa9e163ad544f27c0fcaa716",
+      "width": 1024,
+      "height": 576,
+      "aspectRatio": 1.777778,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_kim_hyeja_20261005_landscape.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_kim_hyeja_20261005_landscape.webp?alt=media",
+      "metadataSourceURL": "https://ent.sbs.co.kr/news/article.do?article_id=E10010322733"
+    },
+    {
+      "document": "upcoming/netflix_kim_hyeja_20261005",
+      "title": "김혜자의 안부, 죽지마세요",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://img.sbs.co.kr/newsnet/etv/upload/2026/10/01/30001091020_1280.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_kim_hyeja_20261005_portrait",
+      "objectPath": "posters/upcoming/catalog_series_netflix_kim_hyeja_20261005_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 81070,
+      "sha256": "ec36b9dc686446f311d3da1f7128e4f9acd9c68ccaa9692d166f82eb7967f65f",
+      "width": 724,
+      "height": 1024,
+      "aspectRatio": 0.707031,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_kim_hyeja_20261005_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_kim_hyeja_20261005_portrait.webp?alt=media",
+      "metadataSourceURL": "https://ent.sbs.co.kr/news/article.do?article_id=E10010322733"
     }
   ]
 }
