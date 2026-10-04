@@ -11858,6 +11858,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_stellar_blade_complete_edition_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_stellar_blade_complete_edition_portrait.webp?alt=media",
       "metadataSourceURL": "https://store.nintendo.co.kr/70010000123392"
+    },
+    {
+      "document": "games/The Witcher 3: Wild Hunt Remastered",
+      "title": "더 위쳐 3: 와일드 헌트 - 리마스터",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg",
+      "objectBase": "posters/games/catalog_games_witcher_3_wild_hunt_remastered_portrait",
+      "objectPath": "posters/games/catalog_games_witcher_3_wild_hunt_remastered_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 44476,
+      "sha256": "bbb1ec546e5723d906dafe4b6c12626b73a56a1005c9a6a808264cdcd7f084e3",
+      "width": 300,
+      "height": 450,
+      "aspectRatio": 0.6666666666666666,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_witcher_3_wild_hunt_remastered_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_witcher_3_wild_hunt_remastered_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.nintendo.com/au/games/nintendo-switch-2/the-witcher-3-wild-hunt-remastered/"
     }
   ]
 }
