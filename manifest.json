@@ -11818,6 +11818,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_personal_taxi_20261001",
+      "title": "개인적인 택시",
+      "mediaType": "series",
+      "sourceURL": "https://img9.yna.co.kr/etc/inner/KR/2026/09/08/AKR20260908067900005_01_i_P4.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_personal_taxi_20261001",
+      "objectPath": "posters/upcoming/catalog_series_netflix_personal_taxi_20261001_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 399012,
+      "sha256": "978985926df1ee936dbabdf645ce83805b81edbbbd3d51b84797ee3282c96d4a",
+      "width": 896,
+      "height": 1200,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@cdb3accec0336786550ea098fe2d3452ec54032d/posters/upcoming/catalog_series_netflix_personal_taxi_20261001_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_personal_taxi_20261001_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.yna.co.kr/view/AKR20260908067900005?input=1215m",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/netflix_quiet_place_20261015",
       "title": "콰이어트 플레이스",
       "mediaType": "movie",
