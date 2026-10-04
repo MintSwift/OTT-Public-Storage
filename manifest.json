@@ -10488,6 +10488,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_the_trap_20261013",
+      "title": "The Trap",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://assetshare.netflixstudios.com/api/share/2e8c9f70-768d-4fc4-96c7-2b2d0205a426/80115030-a6d1-11f1-812f-0ebbd8ccd353/80115030-a6d1-11f1-812f-0ebbd8ccd353/download",
+      "objectBase": "posters/upcoming/catalog_series_netflix_the_trap_20261013_portrait",
+      "objectPath": "posters/upcoming/catalog_series_netflix_the_trap_20261013_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 197422,
+      "sha256": "f6df2c6face650e8d3100e912856619f71a27474e1472e6deee96cc7483715e0",
+      "width": 1100,
+      "height": 1629,
+      "aspectRatio": 0.6752608962553714,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@dacee51a4e4ed0b2c3389b958dd504beb5cf0e44/posters/upcoming/catalog_series_netflix_the_trap_20261013_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_the_trap_20261013_portrait.webp?alt=media",
+      "metadataSourceURL": "https://about.netflix.com/en/news/the-trap-no-one-escapes-their-past-netflix-releases-the-official-trailer-and-press-kit-for-the-new-psychological-thriller-series-highlight"
+    },
+    {
       "document": "upcoming/tving_100days_deception_202610",
       "title": "100일의 거짓말",
       "mediaType": "series",
