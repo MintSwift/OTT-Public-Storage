@@ -13442,6 +13442,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@32957f4186f7856b6dddb9a4f9788d75f2d6c7e6/posters/upcoming/catalog_series_tving_study_group_s2_2026_portrait.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_tving_study_group_s2_2026_portrait.jpg?alt=media",
       "metadataSourceURL": "https://www.etnews.com/20260728000270"
+    },
+    {
+      "document": "games/Valor Mortis",
+      "title": "Valor Mortis",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://clan.fastly.steamstatic.com/images/45746684/155292129e53df3e9cc1fd6b29687140f5a7a9ba.jpg",
+      "objectBase": "posters/games/catalog_games_valor_mortis_portrait",
+      "objectPath": "posters/games/catalog_games_valor_mortis_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 306458,
+      "sha256": "9ecf51ffc26358a829dc1545f479a9fb9338e9f42994981ed94250b21bf88cd3",
+      "width": 900,
+      "height": 1125,
+      "aspectRatio": 0.8,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@496dce3a096a174726d37dd7ff79aa15655cd350/posters/games/catalog_games_valor_mortis_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_valor_mortis_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://steamcommunity.com/app/2828710/announcements/"
     }
   ]
 }
