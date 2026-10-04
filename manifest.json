@@ -11804,6 +11804,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_one_piece_grand_gourmet_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_one_piece_grand_gourmet_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.bandainamcoent.com/games/one-piece-grand-gourmet"
+    },
+    {
+      "document": "games/FINAL FANTASY RESONANCE",
+      "title": "FINAL FANTASY RESONANCE",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://cdn11.bigcommerce.com/s-6rs11v9w2d/images/stencil/1280x1280/products/4066/20922/FFR_SQEX_ESRB_US__64653.1780695279.jpg?c=1",
+      "objectBase": "posters/games/catalog_games_final_fantasy_resonance_portrait",
+      "objectPath": "posters/games/catalog_games_final_fantasy_resonance_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 86874,
+      "sha256": "67233682ae63b3cedb34da222c2154526cec1b2cb448524af1c7eb42fca8557c",
+      "width": 500,
+      "height": 718,
+      "aspectRatio": 0.6963788300835655,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_final_fantasy_resonance_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_final_fantasy_resonance_portrait.webp?alt=media",
+      "metadataSourceURL": "https://na.store.square-enix-games.com/final-fantasy-resonance"
     }
   ]
 }
