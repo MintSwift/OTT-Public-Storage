@@ -10073,6 +10073,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/disney_phony_s1_20261020",
+      "title": "포니",
+      "mediaType": "series",
+      "sourceURL": "https://cdn.moviefone.com/admin-uploads/highlights/images/phony-season-1-official-poster_1790701875.webp",
+      "objectBase": "posters/upcoming/catalog_series_disney_phony_s1_20261020",
+      "objectPath": "posters/upcoming/catalog_series_disney_phony_s1_20261020_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 174316,
+      "sha256": "983468144ee7b42861e9bbed4a0baca3351aa9b29ea93282e7c70b668396a82b",
+      "width": 1080,
+      "height": 1350,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@a714c2cee639b7c2bc731c98b77166292a75ab66/posters/upcoming/catalog_series_disney_phony_s1_20261020_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_phony_s1_20261020_portrait.webp?alt=media",
+      "metadataSourceURL": "https://press.hulu.com/shows/phony/",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/disney_portraits_of_delusion_2026",
       "title": "현혹",
       "mediaType": "series",
