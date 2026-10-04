@@ -10038,6 +10038,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/disney_visionquest_20261014",
+      "title": "비전퀘스트",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://lumiere-a.akamaihd.net/v1/images/visionquest_tf_8_c967f3bf.jpeg?region=0,0,1086,1609",
+      "objectBase": "posters/upcoming/catalog_series_disney_visionquest_20261014_portrait",
+      "objectPath": "posters/upcoming/catalog_series_disney_visionquest_20261014_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 391994,
+      "sha256": "b71363bc02631873dfaad130a8b01bab4bf9b502c5335b8e647ca92553a2ff3f",
+      "width": 1086,
+      "height": 1609,
+      "aspectRatio": 0.6749533871970168,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@52e04a80913bef63d1064d10766c6681042c5df5/posters/upcoming/catalog_series_disney_visionquest_20261014_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_visionquest_20261014_portrait.webp?alt=media",
+      "metadataSourceURL": "https://press.disneyplus.com/news/next-on-disney-plus-october-2026"
+    },
+    {
       "document": "upcoming/netflix_3_body_problem_2_2026",
       "title": "3 Body Problem 시즌 2",
       "mediaType": "series",
