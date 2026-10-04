@@ -12470,6 +12470,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_pororo_s9_20261015_landscape.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_pororo_s9_20261015_landscape.webp?alt=media",
       "metadataSourceURL": "https://www.youtube.com/watch?v=asQJddeD-rs"
+    },
+    {
+      "document": "games/007 First Light",
+      "title": "007 퍼스트 라이트",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://gmedia.playstation.com/is/image/SIEPDC/007-first-light-JamesBond-characterart-03-en-15jan26?wid=1280&hei=1600&fit=constrain",
+      "objectBase": "posters/games/catalog_games_007_first_light_portrait",
+      "objectPath": "posters/games/catalog_games_007_first_light_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 137258,
+      "sha256": "709abb32a9dbc89633b15c6433115004f18a8c6f18331a3b10c8dcb4ee9587cd",
+      "width": 1280,
+      "height": 1600,
+      "aspectRatio": 0.8,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_007_first_light_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_007_first_light_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.playstation.com/en-us/games/007-first-light/"
     }
   ]
 }
