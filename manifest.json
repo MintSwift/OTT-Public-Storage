@@ -13550,6 +13550,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@e626c52c9c2dcc2f64533aa34a0d8e54f31b5ffc/posters/games/catalog_games_untitled_john_wick_game_portrait.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_untitled_john_wick_game_portrait.jpg?alt=media",
       "metadataSourceURL": "https://store.playstation.com/en-us/concept/10018651"
+    },
+    {
+      "document": "games/Persona 6",
+      "title": "Persona 6",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://store-images.s-microsoft.com/image/apps.37218.14014240657828280.0e8d040d-3489-4fa2-90d3-60d1b5e6e395.d606758e-d970-4f4d-b013-c2d07d8a6c08",
+      "objectBase": "posters/games/catalog_games_persona_6_portrait",
+      "objectPath": "posters/games/catalog_games_persona_6_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 271976,
+      "sha256": "cf455aa9fce1b717b5e5bec72ff06d01c1acbffbccd8d6660f246553bf862ce4",
+      "width": 1440,
+      "height": 2160,
+      "aspectRatio": 0.6666666666666666,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@c96ca9c088187aee3707300004fbd78a01cabf07/posters/games/catalog_games_persona_6_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_persona_6_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.xbox.com/en-US/games/store/persona-6/9n6h2wjrzf39"
     }
   ]
 }
