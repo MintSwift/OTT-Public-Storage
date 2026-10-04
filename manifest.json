@@ -11695,6 +11695,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_our_ballad_s2_20261006",
+      "title": "우리들의 발라드 2",
+      "mediaType": "series",
+      "sourceURL": "https://img.newspim.com/news/2026/09/07/2609071616501100.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_our_ballad_s2_20261006",
+      "objectPath": "posters/upcoming/catalog_series_netflix_our_ballad_s2_20261006_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 382712,
+      "sha256": "9a37f4e9f41c378b2d404919682fbe5d23ffdc2c5de690608264615a68cbbb1d",
+      "width": 1067,
+      "height": 1600,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@bc5f5c2fb5be757562b8a4dd16d5b612d06a94f3/posters/upcoming/catalog_series_netflix_our_ballad_s2_20261006_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_our_ballad_s2_20261006_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.newspim.com/news/view/20260907000989",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/netflix_pat_mat_again_20261011",
       "title": "패트와 매트: 한 번 더 좌충우돌",
       "mediaType": "movie",
