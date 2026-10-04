@@ -1728,6 +1728,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "games/Intergalactic: The Heretic Prophet",
+      "title": "Intergalactic: The Heretic Prophet",
+      "mediaType": "game",
+      "sourceURL": "https://gmedia.playstation.com/is/image/SIEPDC/Intergalactic-background-mobile-02-en-13dec24?$800px$",
+      "objectBase": "posters/games/catalog_games_intergalactic_the_heretic_prophet",
+      "objectPath": "posters/games/catalog_games_intergalactic_the_heretic_prophet_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 270897,
+      "sha256": "4d9f92c9aedaf35459e748f2721b08ba6506eff30bc39a90a58b8b0c19300f83",
+      "width": 800,
+      "height": 1594,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@27eb6e36cfdfb11e46ada4fea49568ef71f0c821/posters/games/catalog_games_intergalactic_the_heretic_prophet_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_intergalactic_the_heretic_prophet_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.playstation.com/ko-kr/games/intergalactic-the-heretic-prophet/",
+      "orientation": "portrait"
+    },
+    {
       "document": "games/Just Dance: Decades of Hits",
       "title": "Just Dance: Decades of Hits",
       "mediaType": "game",
@@ -2750,6 +2767,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "games/Rev. NOiR",
+      "title": "Rev. NOiR",
+      "mediaType": "game",
+      "sourceURL": "https://www.konami.com/games/noir/images/keyvisual-sp.webp",
+      "objectBase": "posters/games/catalog_games_rev_noir",
+      "objectPath": "posters/games/catalog_games_rev_noir_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 397558,
+      "sha256": "e24f1429f4e2df9e460d2b3533fe6f31fc52760549a435ef3b8b5d8c169246dc",
+      "width": 750,
+      "height": 1300,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@27eb6e36cfdfb11e46ada4fea49568ef71f0c821/posters/games/catalog_games_rev_noir_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_rev_noir_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.konami.com/games/noir/en-us/",
+      "orientation": "portrait"
+    },
+    {
       "document": "games/Romancing SaGa 3: Destinies United",
       "title": "로맨싱 사가 3 데스티니스 유나이티드",
       "mediaType": "game",
@@ -2852,6 +2886,23 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_star_wars_galactic_racer.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/4078430/?l=koreana",
       "orientation": "landscape"
+    },
+    {
+      "document": "games/STAR WARS: Galactic Racer",
+      "title": "스타워즈: 은하계 레이서™",
+      "mediaType": "game",
+      "sourceURL": "https://starwarsgalacticracer.com/wp-content/themes/swgr/assets/img/hero/main-bg-mobile.avif",
+      "objectBase": "posters/games/catalog_games_star_wars_galactic_racer",
+      "objectPath": "posters/games/catalog_games_star_wars_galactic_racer_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 168200,
+      "sha256": "63847ec02da7a8aa22d336d475baaa80022d1f688294984c0efe47b4cf6add09",
+      "width": 1242,
+      "height": 1531,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@27eb6e36cfdfb11e46ada4fea49568ef71f0c821/posters/games/catalog_games_star_wars_galactic_racer_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_star_wars_galactic_racer_portrait.webp?alt=media",
+      "metadataSourceURL": "https://starwarsgalacticracer.com/",
+      "orientation": "portrait"
     },
     {
       "document": "games/State of Decay 3",
@@ -3111,6 +3162,23 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_tomb_raider_legacy_of_atlantis.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/3558670/?l=koreana",
       "orientation": "landscape"
+    },
+    {
+      "document": "games/Tomb Raider: Legacy of Atlantis",
+      "title": "툼 레이더: 레거시 오브 아틀란티스",
+      "mediaType": "game",
+      "sourceURL": "https://images.ctfassets.net/er9ta1axz3q5/14CQuhKbCKHant3CB1ZSZK/80068d04b5bc1d849d11dd15b7046e27/TR_Home_1080x1200.jpg?w=1200&q=75&fm=webp",
+      "objectBase": "posters/games/catalog_games_tomb_raider_legacy_of_atlantis",
+      "objectPath": "posters/games/catalog_games_tomb_raider_legacy_of_atlantis_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 252544,
+      "sha256": "24c11adfeaed035c6f8abc1ead186a7a983b81e06722db97610e1a886be8003c",
+      "width": 1200,
+      "height": 1920,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@27eb6e36cfdfb11e46ada4fea49568ef71f0c821/posters/games/catalog_games_tomb_raider_legacy_of_atlantis_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_tomb_raider_legacy_of_atlantis_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.playtombraider.com/en-us",
+      "orientation": "portrait"
     },
     {
       "document": "games/Tormented Souls 2",
