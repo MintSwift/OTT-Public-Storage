@@ -2110,6 +2110,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "games/METRO 2039",
+      "title": "메트로 2039",
+      "mediaType": "game",
+      "sourceURL": "https://www.deepsilver.com/media/xk2pjoku/mobile_1440x2160_06.jpg",
+      "objectBase": "posters/games/catalog_games_metro_2039",
+      "objectPath": "posters/games/catalog_games_metro_2039_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 342949,
+      "sha256": "102fb5db2886fe3adc14527c4d22535085e57a8dc90f5348e2f91a5a8a3fa3e1",
+      "width": 900,
+      "height": 1600,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ad33becfc350b77f8da6dfca66e277e8a0a3a0f4/posters/games/catalog_games_metro_2039_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_metro_2039_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.deepsilver.com/games/metro2039/media",
+      "orientation": "portrait"
+    },
+    {
       "document": "games/Metroid Ravenous",
       "title": "메트로이드 래버너스",
       "mediaType": "game",
@@ -3387,6 +3404,23 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_warhammer_40_000_dawn_of_war_iv.jpg?alt=media",
       "metadataSourceURL": "https://store.steampowered.com/app/2272360/?l=koreana",
       "orientation": "landscape"
+    },
+    {
+      "document": "games/Warhammer 40,000: Dawn of War IV",
+      "title": "Warhammer 40,000: Dawn of War IV",
+      "mediaType": "game",
+      "sourceURL": "https://www.deepsilver.com/media/leqi5ei3/dow4_wallpaper_mobile_1440x2560.png",
+      "objectBase": "posters/games/catalog_games_warhammer_40_000_dawn_of_war_iv",
+      "objectPath": "posters/games/catalog_games_warhammer_40_000_dawn_of_war_iv_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 397651,
+      "sha256": "9aed534f3f30b251a38b05b2f6083438334fbf02a5453dca890ba6549293dcc2",
+      "width": 900,
+      "height": 1600,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@ad33becfc350b77f8da6dfca66e277e8a0a3a0f4/posters/games/catalog_games_warhammer_40_000_dawn_of_war_iv_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_warhammer_40_000_dawn_of_war_iv_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.deepsilver.com/games/dawn-of-war-iv/media",
+      "orientation": "portrait"
     },
     {
       "document": "games/We Were Here Tomorrow",
