@@ -13388,6 +13388,42 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@fc70dac496e2e06fe2f645e0fc358ffcef528963/posters/games/catalog_games_crazy_taxi_world_tour_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_crazy_taxi_world_tour_portrait.webp?alt=media",
       "metadataSourceURL": "https://crazytaxi-asia.sega.com/worldtour/id/fankit/"
+    },
+    {
+      "document": "games/Yu-Gi-Oh! TAG FORCE GX",
+      "title": "유희왕 TAG FORCE GX",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://www.konami.com/yugioh/tagforcegx/assets/images/title-area-character-1.webp",
+      "objectBase": "posters/games/catalog_games_yu_gi_oh_tag_force_gx_portrait",
+      "objectPath": "posters/games/catalog_games_yu_gi_oh_tag_force_gx_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 79282,
+      "sha256": "64e043d473c1a132114c6272ba4d9ae929dcea3b3c3557e39e8a7a7463d6f158",
+      "width": 527,
+      "height": 954,
+      "aspectRatio": 0.5524109014675053,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@3ccf57cb70a1f5f8c5190d5ab12c9ec79207c1da/posters/games/catalog_games_yu_gi_oh_tag_force_gx_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_yu_gi_oh_tag_force_gx_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.konami.com/yugioh/tagforcegx/en-gb/"
+    },
+    {
+      "document": "games/Just Dance: Decades of Hits",
+      "title": "저스트 댄스: 디케이즈 오브 히츠",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6f2np7UvbJcBlAubQA7g9Q/d4161b430a69dec889072a80cc4642a5/JD_header_Mobile2.jpg",
+      "objectBase": "posters/games/catalog_games_just_dance_decades_of_hits_portrait",
+      "objectPath": "posters/games/catalog_games_just_dance_decades_of_hits_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 215543,
+      "sha256": "abeb924f7740f215dde699ebe38e1c0e42283fd59a1f4743d1347612353d5308",
+      "width": 675,
+      "height": 1080,
+      "aspectRatio": 0.625,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@3ccf57cb70a1f5f8c5190d5ab12c9ec79207c1da/posters/games/catalog_games_just_dance_decades_of_hits_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_just_dance_decades_of_hits_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.ubisoft.com/en-us/game/just-dance/decades-of-hits"
     }
   ]
 }
