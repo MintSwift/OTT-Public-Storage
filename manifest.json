@@ -11643,6 +11643,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_rookie_coach_s2_20261011",
+      "title": "신인감독 김연경 2",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/21/476777ad-7b6a-4da3-83cc-937855d66200.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_rookie_coach_s2_20261011_portrait",
+      "objectPath": "posters/upcoming/catalog_series_netflix_rookie_coach_s2_20261011_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 84696,
+      "sha256": "327a58764034ad2446914f418939fbb1d6cb1cf3189062d5d47694a835bf79fa",
+      "width": 900,
+      "height": 1272,
+      "aspectRatio": 0.7075471698113207,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@7584ce4a3f3cac381a6e9450fda44fd1517b946c/posters/upcoming/catalog_series_netflix_rookie_coach_s2_20261011_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_rookie_coach_s2_20261011_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://enews.imbc.com/News/ViewAmp/518855"
+    },
+    {
       "document": "upcoming/netflix_schumacher94_20261002",
       "title": "슈마허 '94: 전설의 탄생",
       "mediaType": "movie",
