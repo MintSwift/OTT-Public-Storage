@@ -2610,6 +2610,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "games/Professor Layton and the New World of Steam",
+      "title": "레이튼 교수와 증기의 신세계",
+      "mediaType": "game",
+      "sourceURL": "https://www.layton.jp/jouki/en/assets/img/secret/wallpaper/wallpaper_a_1242x2208_new.jpg",
+      "objectBase": "posters/games/catalog_games_professor_layton_and_the_new_world_of_steam",
+      "objectPath": "posters/games/catalog_games_professor_layton_and_the_new_world_of_steam_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 391704,
+      "sha256": "bf0eb2f70c98c58a28dc6fc67a1e3d0d4caf98765344d9a3cef8581cd9d247bf",
+      "width": 1242,
+      "height": 2208,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@a73b8d0b9d8ae1ba6884aad2217c5ceefd4daf32/posters/games/catalog_games_professor_layton_and_the_new_world_of_steam_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_professor_layton_and_the_new_world_of_steam_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.layton.jp/jouki/en/",
+      "orientation": "portrait"
+    },
+    {
       "document": "games/RATATAN 1.0",
       "title": "RATATAN 1.0",
       "mediaType": "game",
