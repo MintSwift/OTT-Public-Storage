@@ -11876,6 +11876,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_witcher_3_wild_hunt_remastered_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_witcher_3_wild_hunt_remastered_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/au/games/nintendo-switch-2/the-witcher-3-wild-hunt-remastered/"
+    },
+    {
+      "document": "games/Pikmin 4 — Nintendo Switch 2 Edition + Dandori Academy",
+      "title": "피크민 4 Nintendo Switch 2 Edition + 누구나 도전! 계획력 테스트",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://assets.nintendo.com/image/upload/f_auto%2Cc_limit%2Cw_640%2Cq_auto/Marketing/microsite-pikmin-4-holiday/layouts/buy/buy-pikmin4-case-2x.png",
+      "objectBase": "posters/games/catalog_games_pikmin_4_nintendo_switch_2_edition_dandori_academy_portrait",
+      "objectPath": "posters/games/catalog_games_pikmin_4_nintendo_switch_2_edition_dandori_academy_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 95724,
+      "sha256": "fb78acdc6e3b9314abc55633067878d8ef14abc7ebf1fdf80ae87385f110d6a4",
+      "width": 520,
+      "height": 842,
+      "aspectRatio": 0.6175771971496437,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_pikmin_4_nintendo_switch_2_edition_dandori_academy_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_pikmin_4_nintendo_switch_2_edition_dandori_academy_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-dandori-academy-125241/"
     }
   ]
 }
