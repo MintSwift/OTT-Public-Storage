@@ -6689,6 +6689,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/tank_chair_tank_chair_20261004",
+      "title": "탱크 체어",
+      "mediaType": "series",
+      "sourceURL": "https://img.sunrise-inc.co.jp/images/news/23296_beurazgny9c8_thumb.jpg",
+      "objectBase": "posters/upcoming/catalog_anime_tank_chair_tank_chair_20261004_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_tank_chair_tank_chair_20261004_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 349884,
+      "sha256": "675bea7f3a0d21e9cf727196494325f06732a59b2ef0239fe64a0dbc98148ef5",
+      "width": 1000,
+      "height": 1379,
+      "aspectRatio": 0.725163,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_tank_chair_tank_chair_20261004_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_tank_chair_tank_chair_20261004_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.tankchair-anime.com/news-single.php?id=23296&offset=0",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/tetsuryo_meet_with_railway_daughter_20261008",
       "title": "철량! meet with 철도무스메",
       "mediaType": "series",
