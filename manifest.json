@@ -11930,6 +11930,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_pat_mat_winter_20261011_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_pat_mat_winter_20261011_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.eyefilm.nl/en/whats-on/buurman-buurman-winterpret/264287"
+    },
+    {
+      "document": "upcoming/netflix_pat_mat_again_20261011",
+      "title": "패트와 매트: 한 번 더 좌충우돌",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://www.bioscop.cz/wp-content/uploads/2018/05/Pat_a_Mat_znovu_v_akci_plakat_WEB.png",
+      "objectBase": "posters/upcoming/catalog_anime_netflix_pat_mat_again_20261011_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_netflix_pat_mat_again_20261011_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 155920,
+      "sha256": "c75852400a522b0c01899c96dffd81e0c20d7b47ea40b16339cd42ee9930b98a",
+      "width": 900,
+      "height": 1274,
+      "aspectRatio": 0.706436420722135,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_pat_mat_again_20261011_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_pat_mat_again_20261011_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.bioscop.cz/filmy/pat-a-mat-znovu-v-akci"
     }
   ]
 }
