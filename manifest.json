@@ -11912,6 +11912,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_pat_mat_diy_20261011_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_pat_mat_diy_20261011_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.bioscop.cz/filmy/pat-a-mat-3"
+    },
+    {
+      "document": "upcoming/netflix_pat_mat_winter_20261011",
+      "title": "패트와 매트: 겨울 대소동",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://assets.eyefilm.nl/images/posters/poster-buurman-buurman-winterpret-eye-filmmuseum.jpg",
+      "objectBase": "posters/upcoming/catalog_anime_netflix_pat_mat_winter_20261011_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_netflix_pat_mat_winter_20261011_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 236574,
+      "sha256": "a60d12834f3765739af4fb2fdd465d36d29a370d63bd50bce90df06f7257c55a",
+      "width": 900,
+      "height": 1286,
+      "aspectRatio": 0.6998444790046656,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_pat_mat_winter_20261011_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_pat_mat_winter_20261011_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.eyefilm.nl/en/whats-on/buurman-buurman-winterpret/264287"
     }
   ]
 }
