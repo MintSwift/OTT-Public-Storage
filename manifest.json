@@ -11223,6 +11223,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_hana_korea_20261008",
+      "title": "하나 코리아",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://0.soompi.io/wp-content/uploads/2026/05/27222716/kim-min-ha-1.jpg",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_hana_korea_20261008_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_hana_korea_20261008_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 396857,
+      "sha256": "03dbe2059dba98529014d3c00fe06e7c7b309d3d64b721f0aab4ef2e051b4b6d",
+      "width": 900,
+      "height": 1287,
+      "aspectRatio": 0.6993006993006993,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@a1f0eefaffdcecfc06ca2de29f7760ac8ca312d5/posters/upcoming/catalog_movies_netflix_hana_korea_20261008_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_hana_korea_20261008_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.soompi.com/article/1844323wpp/kim-min-ha-is-a-north-korean-defector-starting-over-in-south-korea-in-posters-for-new-film-hana-korea-0"
+    },
+    {
       "document": "upcoming/netflix_hollywood_arts_20261015",
       "title": "할리우드 아트",
       "mediaType": "series",
