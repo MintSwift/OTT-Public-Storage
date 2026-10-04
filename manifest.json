@@ -4398,6 +4398,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/beat_and_motion_2027",
+      "title": "BEAT & MOTION",
+      "mediaType": "series",
+      "sourceURL": "https://beatandmotion-anime.com/wp-content/themes/beat-motion/images/top/main-visual-card-sm.png",
+      "objectBase": "posters/upcoming/catalog_anime_beat_and_motion_2027_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_beat_and_motion_2027_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 351974,
+      "sha256": "5cf1ca53464f97bc2a15ee92ec017a091e3180fedc2d1cae0e80f96bed8614b2",
+      "width": 1055,
+      "height": 1465,
+      "aspectRatio": 0.720137,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_beat_and_motion_2027_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_beat_and_motion_2027_portrait.webp?alt=media",
+      "metadataSourceURL": "https://beatandmotion-anime.com/",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/black_clover_s2_20261003",
       "title": "블랙 클로버 시즌 2",
       "mediaType": "series",
