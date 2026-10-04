@@ -8280,6 +8280,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_kong_skull_island_20261005",
+      "title": "콩: 스컬 아일랜드",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://www.legendary.com/wp-content/uploads/2016/11/Kong_skull_Island_dom.jpg",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_kong_skull_island_20261005_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_kong_skull_island_20261005_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 157090,
+      "sha256": "5ea5826b148c0a554291d9f18d04e9b213586569eaf7942f2778531a64f6f473",
+      "width": 864,
+      "height": 1280,
+      "aspectRatio": 0.675,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@92fd0e743949ede81bc254032b6357b1cf3483f9/posters/upcoming/catalog_movies_netflix_kong_skull_island_20261005_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_kong_skull_island_20261005_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.legendary.com/two-new-kong-skull-island-posters-arrive/"
+    },
+    {
       "document": "upcoming/netflix_la_bola_negra_20261202",
       "title": "La bola negra",
       "mediaType": "movie",
@@ -8622,6 +8640,24 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_therapy_done_right_20261016.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true",
       "orientation": "landscape"
+    },
+    {
+      "document": "upcoming/netflix_train_to_busan_20261001",
+      "title": "부산행",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://drive.google.com/uc?export=download&id=1yrwEtCUlYKOtx3TuIrDxr1ZDdPiJlwd9",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_train_to_busan_20261001_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_train_to_busan_20261001_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 274094,
+      "sha256": "4e7fa23018ad5124bd157943fb49138483293cab672d971899eac8b72188c976",
+      "width": 1100,
+      "height": 1630,
+      "aspectRatio": 0.6748466257668712,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@92fd0e743949ede81bc254032b6357b1cf3483f9/posters/upcoming/catalog_movies_netflix_train_to_busan_20261001_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_train_to_busan_20261001_portrait.webp?alt=media",
+      "metadataSourceURL": "https://wellgousa.com/films/train-busan"
     },
     {
       "document": "upcoming/netflix_tyler_perry_s_doing_life_20261002",
