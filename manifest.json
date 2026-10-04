@@ -12002,6 +12002,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_how_train_dragon_3_20261011_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_how_train_dragon_3_20261011_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.universalpicturesathome.com/movies/how-to-train-your-dragon-the-hidden-world"
+    },
+    {
+      "document": "upcoming/netflix_pat_mat_movie_20261011",
+      "title": "패트와 매트: 더 무비",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://www.bohemiamp.cz/files/filmy/film-1741.jpg",
+      "objectBase": "posters/upcoming/catalog_anime_netflix_pat_mat_movie_20261011_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_netflix_pat_mat_movie_20261011_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 65874,
+      "sha256": "ba9973f876e8560aeaf724e02f8a5c8494f525d52ba8409e86edcf668d7e53fe",
+      "width": 560,
+      "height": 800,
+      "aspectRatio": 0.7,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_pat_mat_movie_20261011_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_pat_mat_movie_20261011_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.bohemiamp.cz/filmy/pat-a-mat-ve-filmu/1741/"
     }
   ]
 }
