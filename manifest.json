@@ -10248,6 +10248,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/disney_teachers_s3_20261015",
+      "title": "티처스 3: 재수전쟁",
+      "mediaType": "series",
+      "sourceURL": "https://t1.daumcdn.net/news/202608/23/10asia/20260823140114817awai.jpg",
+      "objectBase": "posters/upcoming/catalog_series_disney_teachers_s3_20261015",
+      "objectPath": "posters/upcoming/catalog_series_disney_teachers_s3_20261015_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 239233,
+      "sha256": "23c9ba32e1af13dc767fe02b20fd4065d5df654b812381f3b7fa2f1eec0f11e3",
+      "width": 1060,
+      "height": 1500,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@07dcc41d12e9139bae5e8fd39789f9332b2c7f9d/posters/upcoming/catalog_series_disney_teachers_s3_20261015_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_teachers_s3_20261015_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://v.daum.net/v/qXjRUrqFY0",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/disney_vampirina_s2_20261007",
       "title": "릴라는 뱀파이어: 리나의 새로운 학교생활 시즌 2",
       "mediaType": "series",
