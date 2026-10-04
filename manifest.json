@@ -13460,6 +13460,42 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@496dce3a096a174726d37dd7ff79aa15655cd350/posters/games/catalog_games_valor_mortis_portrait.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_valor_mortis_portrait.jpg?alt=media",
       "metadataSourceURL": "https://steamcommunity.com/app/2828710/announcements/"
+    },
+    {
+      "document": "games/GUNDAM ROGUE ORBIT",
+      "title": "GUNDAM ROGUE ORBIT",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0706/f6a926b9d53be603e11243f0bb57d5e0372a11f45b69d5be.jpg",
+      "objectBase": "posters/games/catalog_games_gundam_rogue_orbit_portrait",
+      "objectPath": "posters/games/catalog_games_gundam_rogue_orbit_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 332182,
+      "sha256": "e8be419323f56a83a41b12bdbe40fa080309f0bebb44994a0b27e4946c0127bc",
+      "width": 900,
+      "height": 1350,
+      "aspectRatio": 0.6666666666666666,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@830ea08667df39b25edaaa56c112583b69a25962/posters/games/catalog_games_gundam_rogue_orbit_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_gundam_rogue_orbit_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://store.playstation.com/ko-kr/product/JP0700-PPSA09840_00-MAINGAME000000"
+    },
+    {
+      "document": "games/End of Abyss",
+      "title": "End of Abyss",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1019/d3ddabf72e33c008f15051439de67eb4d99032c0aedf8bb1.jpg",
+      "objectBase": "posters/games/catalog_games_end_of_abyss_portrait",
+      "objectPath": "posters/games/catalog_games_end_of_abyss_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 260036,
+      "sha256": "8ba5ba8ffbdba667ad4e8bf99b3674bd078e2b26d766f0caaedf2e357285b8d3",
+      "width": 1440,
+      "height": 2160,
+      "aspectRatio": 0.6666666666666666,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@830ea08667df39b25edaaa56c112583b69a25962/posters/games/catalog_games_end_of_abyss_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_end_of_abyss_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://store.playstation.com/ko-kr/product/HP1597-PPSA25717_00-ENDOFABYSS000000"
     }
   ]
 }
