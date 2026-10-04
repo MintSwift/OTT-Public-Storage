@@ -8927,6 +8927,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_the_further_mis_adventures_of_cliff_booth_20261223",
+      "title": "The Further Mis-Adventures of Cliff Booth",
+      "mediaType": "movie",
+      "sourceURL": "https://static2.showtimes.com/poster/660x980/the-further-mis-adventures-of-cliff-booth-292653.jpg",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_the_further_mis_adventures_of_cliff_booth_20261223",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_the_further_mis_adventures_of_cliff_booth_20261223_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 15571,
+      "sha256": "3a1cb15a69c0721414aa108ebfa7b036ef9d20bbcd88e36ebe4cd8cfb90854df",
+      "width": 660,
+      "height": 879,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@0ab3c7e6f34bbe84184180b377db67e899de896f/posters/upcoming/catalog_movies_netflix_the_further_mis_adventures_of_cliff_booth_20261223_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_the_further_mis_adventures_of_cliff_booth_20261223_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.netflix.com/title/82054606",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/netflix_the_mosquito_bowl_20261125",
       "title": "The Mosquito Bowl",
       "mediaType": "movie",
