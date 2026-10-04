@@ -7605,6 +7605,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/disney_jamie_foxx_take_care_of_yourself_20261007",
+      "title": "제이미 폭스: 건강을 하심쇼",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://thewaltdisneycompany.com/app/uploads/2026/09/Jamie-Foxx-Take-Care-of-Yourself_Social_Static_4x5_PRE.jpg",
+      "objectBase": "posters/upcoming/catalog_movie_disney_jamie_foxx_take_care_of_yourself_20261007_portrait",
+      "objectPath": "posters/upcoming/catalog_movie_disney_jamie_foxx_take_care_of_yourself_20261007_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 269791,
+      "sha256": "e9edc3ef72acc467f479ff9e8d09e59aed63578180eb863d1d55f28def6a8d5c",
+      "width": 1080,
+      "height": 1350,
+      "aspectRatio": 0.8,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@08cbe0e529b9133d046f20c56d3b8e994a2ed731/posters/upcoming/catalog_movie_disney_jamie_foxx_take_care_of_yourself_20261007_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movie_disney_jamie_foxx_take_care_of_yourself_20261007_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://thewaltdisneycompany.com/trailers/"
+    },
+    {
       "document": "upcoming/disney_katseye_wild_hearts_20261016",
       "title": "KATSEYE: WILD HEARTS",
       "mediaType": "movie",
