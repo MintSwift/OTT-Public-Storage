@@ -11768,6 +11768,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_dragon_quest_monsters_the_withered_world_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_dragon_quest_monsters_the_withered_world_portrait.webp?alt=media",
       "metadataSourceURL": "https://na.store.square-enix-games.com/dragon-quest-monsters-the-withered-world"
+    },
+    {
+      "document": "games/Romancing SaGa 3: Destinies United",
+      "title": "로맨싱 사가 3 데스티니스 유나이티드",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://cdn11.bigcommerce.com/s-6rs11v9w2d/images/stencil/1280x1280/products/4126/21262/RSDU_ESRB_CAN_v02r__96597.1788917382.jpg?c=1",
+      "objectBase": "posters/games/catalog_games_romancing_saga_3_destinies_united_portrait",
+      "objectPath": "posters/games/catalog_games_romancing_saga_3_destinies_united_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 122402,
+      "sha256": "1c53a17b7e61f7216024f1949ffce13e7ee7ff5b2bbf4292c8894402ee533c85",
+      "width": 500,
+      "height": 718,
+      "aspectRatio": 0.6963788300835655,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_romancing_saga_3_destinies_united_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_romancing_saga_3_destinies_united_portrait.webp?alt=media",
+      "metadataSourceURL": "https://na.store.square-enix-games.com/romancing-saga-3-destinies-united"
     }
   ]
 }
