@@ -12056,6 +12056,42 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_avedon_20261111_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_avedon_20261111_portrait.webp?alt=media",
       "metadataSourceURL": "https://media.netflix.com/en/only-on-netflix/83018004"
+    },
+    {
+      "document": "upcoming/netflix_heartland_20261113",
+      "title": "Heartland",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABf5VDvlJ9XNrgphc2UM_o3Qy4q-Atu9fcPrgWk_fI5igHOh0p4m-99O8oA2qQ6rgNGgczgAFFyXVeZhXtgbZyheSDwWya0mLCvhN.jpg?r=fba",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_heartland_20261113_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_heartland_20261113_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 106098,
+      "sha256": "c2025f33efba77e4440987dc86d8101463b3a9aa8c660379a6b615279820c302",
+      "width": 450,
+      "height": 630,
+      "aspectRatio": 0.714286,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_heartland_20261113_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_heartland_20261113_portrait.webp?alt=media",
+      "metadataSourceURL": "https://media.netflix.com/en/only-on-netflix/81486332"
+    },
+    {
+      "document": "upcoming/netflix_therapy_done_right_20261016",
+      "title": "Therapy Done Right",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABXx_wH50OEaJknR-EBhhaAO2JKI4v56w9VTnmE1vcjA8fXvK725N734PZEkHnk9hpwjDa6ePzkD0jypIMuJDd6GvQvCen00uowWL.jpg?r=533",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_therapy_done_right_20261016_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_therapy_done_right_20261016_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 49766,
+      "sha256": "3cc5423ab5dbf854b1595773a6d8faa867e773d0a907e965bb6a0659aa14843d",
+      "width": 450,
+      "height": 630,
+      "aspectRatio": 0.714286,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_therapy_done_right_20261016_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_therapy_done_right_20261016_portrait.webp?alt=media",
+      "metadataSourceURL": "https://media.netflix.com/en/only-on-netflix/82027563"
     }
   ]
 }
