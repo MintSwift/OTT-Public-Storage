@@ -10472,6 +10472,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_blue_road_2026",
+      "title": "푸른길",
+      "mediaType": "series",
+      "sourceURL": "https://cdn.newsflix.co.kr/news/photo/202610/32623_32975_2936.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_blue_road_2026",
+      "objectPath": "posters/upcoming/catalog_series_netflix_blue_road_2026_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 121549,
+      "sha256": "33e08fea44e0147fd579ae95041f52236add4d6daac88dd9f998242a8f3adc3c",
+      "width": 600,
+      "height": 889,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@4fd7a4bde874cc5cad495a1fce3cc54f07b9d573/posters/upcoming/catalog_series_netflix_blue_road_2026_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_blue_road_2026_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.newsflix.co.kr/news/articleView.html?idxno=32623",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/netflix_charge_my_heart_20261009",
       "title": "나를 충전해줘",
       "mediaType": "series",
