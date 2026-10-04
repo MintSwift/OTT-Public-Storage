@@ -12146,6 +12146,42 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_gentle_monster_20261118_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_gentle_monster_20261118_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.filmportal.de/en/node/2182026/gallery"
+    },
+    {
+      "document": "upcoming/netflix_paralyzed_by_hope_the_maria_bamford_story_20261023",
+      "title": "Paralyzed by Hope: The Maria Bamford Story",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://www.impawards.com/2026/posters/paralyzed_by_hope_the_maria_bamford_story.jpg",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_paralyzed_by_hope_the_maria_bamford_story_20261023_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_paralyzed_by_hope_the_maria_bamford_story_20261023_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 60198,
+      "sha256": "eb239b80af37d3c0a4fb21f015ee24fafd60fb54c72a2bc5f8bee903836952ee",
+      "width": 480,
+      "height": 600,
+      "aspectRatio": 0.8,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_paralyzed_by_hope_the_maria_bamford_story_20261023_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_paralyzed_by_hope_the_maria_bamford_story_20261023_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.netflix.com/tudum/articles/new-comedy-documentaries-2026"
+    },
+    {
+      "document": "upcoming/disney_katseye_wild_hearts_20261016",
+      "title": "KATSEYE: WILD HEARTS",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://www.impawards.com/2026/posters/katseye_wild_hearts.jpg",
+      "objectBase": "posters/upcoming/catalog_movies_disney_katseye_wild_hearts_20261016_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_disney_katseye_wild_hearts_20261016_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 119522,
+      "sha256": "835ce2acb80e3aea9324b0437e9807e421bc009a429d2afaeba2223369d18af9",
+      "width": 510,
+      "height": 755,
+      "aspectRatio": 0.675497,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_disney_katseye_wild_hearts_20261016_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_disney_katseye_wild_hearts_20261016_portrait.webp?alt=media",
+      "metadataSourceURL": "https://press.disneyplus.com/news/katseye-wild-hearts-on-disneyplus-hulu"
     }
   ]
 }
