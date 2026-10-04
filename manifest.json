@@ -12020,6 +12020,42 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_pat_mat_movie_20261011_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_pat_mat_movie_20261011_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.bohemiamp.cz/filmy/pat-a-mat-ve-filmu/1741/"
+    },
+    {
+      "document": "upcoming/netflix_the_mosquito_bowl_20261125",
+      "title": "The Mosquito Bowl",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABaLwEPnMLBXM89UYGg8vQMKMFLYwLaA4ra2EJnakqesysmfWDDykAuw-r9xEdXm2O_O_bdY_cpdFtpIKC5lAX8xpfna0l87E10CS.jpg?r=71a",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_the_mosquito_bowl_20261125_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_the_mosquito_bowl_20261125_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 40134,
+      "sha256": "8dcacfc33ee439c960150ebd51442baaf5d6a68a30e81e299df06e12d5fc93a7",
+      "width": 450,
+      "height": 630,
+      "aspectRatio": 0.714286,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_the_mosquito_bowl_20261125_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_the_mosquito_bowl_20261125_portrait.webp?alt=media",
+      "metadataSourceURL": "https://media.netflix.com/en/only-on-netflix/81661161"
+    },
+    {
+      "document": "upcoming/netflix_avedon_20261111",
+      "title": "Avedon",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://dnm.nflximg.net/api/v6/Kc8CA9GHHouTKoU4bM9l5VW4DIA/AAAABf-chyr2rsUtG5y-gqlaccqQ4XWH8_KpOjbXTD4uCw2JhMIJr2E-RH4aXHhIrgBZt6rMtLOBIiguIvHdA_rdHAt_Pp9zN8v0iURaLebZRe8GpPR2.jpg",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_avedon_20261111_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_avedon_20261111_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 6666,
+      "sha256": "6b43fbb1265b5cbb9fb4c27f228adb547778a9eb2fb7c2a36726dd4a186373e9",
+      "width": 450,
+      "height": 630,
+      "aspectRatio": 0.714286,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_avedon_20261111_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_avedon_20261111_portrait.webp?alt=media",
+      "metadataSourceURL": "https://media.netflix.com/en/only-on-netflix/83018004"
     }
   ]
 }
