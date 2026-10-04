@@ -2127,6 +2127,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "games/Minecraft Dungeons II",
+      "title": "Minecraft Dungeons II",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://cms-assets.xboxservices.com/assets/80/47/80477dbb-54b4-4b59-997f-3ebf8b270e3e.jpg?n=54980885_GLP-Page-Hero-0_1083x1222_01.jpg",
+      "objectBase": "posters/games/catalog_games_minecraft_dungeons_ii_portrait",
+      "objectPath": "posters/games/catalog_games_minecraft_dungeons_ii_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 235454,
+      "sha256": "4f9ed1127a9795d21d8033122a658d455c6386ade300e76b1bcb5055f4190120",
+      "width": 1083,
+      "height": 1222,
+      "aspectRatio": 0.886252045826514,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@f6ba23b422379d7152db76c3de108f03f452c1d5/posters/games/catalog_games_minecraft_dungeons_ii_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_minecraft_dungeons_ii_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.xbox.com/en-US/games/minecraft-dungeons-ii"
+    },
+    {
       "document": "games/Monster Hunter Wilds",
       "title": "몬스터 헌터 와일즈",
       "mediaType": "game",
