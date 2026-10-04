@@ -11728,6 +11728,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_the_listen_s6_20261008",
+      "title": "더 리슨 - 우리가 머문 계절",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://img.sbs.co.kr/newsnet/etv/upload/2026/09/02/30001085215_1280.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_the_listen_s6_20261008_portrait",
+      "objectPath": "posters/upcoming/catalog_series_netflix_the_listen_s6_20261008_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 259152,
+      "sha256": "f5c8355e9174f9b4fcfcc9039d1be7175d381462aed2fb332276dddf87afdc5d",
+      "width": 1080,
+      "height": 1350,
+      "aspectRatio": 0.8,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@2fb8eddfba4ee19be967396feab7a0ce18c79871/posters/upcoming/catalog_series_netflix_the_listen_s6_20261008_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_the_listen_s6_20261008_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://ent.sbs.co.kr/news/article.do?article_id=E10010321470&cooper=ent.sbs.co.kr"
+    },
+    {
       "document": "upcoming/netflix_train_to_busan_20261001",
       "title": "부산행",
       "mediaType": "movie",
