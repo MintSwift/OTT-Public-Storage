@@ -4186,6 +4186,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/aoashi_s2_20261004",
+      "title": "아오아시 시즌 2",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://aoashi-pr.com/wp/wp-content/themes/aoashi-honban-theme-2/img/season2/kv02r.webp",
+      "objectBase": "posters/upcoming/catalog_anime_aoashi_s2_20261004_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_aoashi_s2_20261004_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 374672,
+      "sha256": "9d1eacd102f998e52a132e741bb0b4ec9e8d3701a10c934fa28015206934c9a3",
+      "width": 1200,
+      "height": 1696,
+      "aspectRatio": 0.7075471698113207,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@b4dda6bd04e2a09826771cf05904e33989588c99/posters/upcoming/catalog_anime_aoashi_s2_20261004_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_aoashi_s2_20261004_portrait.webp?alt=media",
+      "metadataSourceURL": "https://aoashi-pr.com/"
+    },
+    {
       "document": "upcoming/apple_the_sisters_grimm_20261002",
       "title": "The Sisters Grimm 시즌 2",
       "mediaType": "series",
@@ -5154,6 +5172,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/girls_und_panzer_das_finale_part_5_20261009",
+      "title": "걸즈 앤 판처 최종장 제5화",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://girls-und-panzer-finale.jp/iaY7mRf2zJ/wp-content/uploads/2026/09/GuPFINAL5_2ndPosterbilling_largeF_B2%E5%AE%9F%E5%AF%B8.jpg",
+      "objectBase": "posters/upcoming/catalog_anime_girls_und_panzer_das_finale_part_5_20261009_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_girls_und_panzer_das_finale_part_5_20261009_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 292944,
+      "sha256": "970fe2739363d59abe99c5b0c4b0ea5596750c29024c0df2600714ab1cc6ed09",
+      "width": 1200,
+      "height": 1696,
+      "aspectRatio": 0.7075471698113207,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@b4dda6bd04e2a09826771cf05904e33989588c99/posters/upcoming/catalog_anime_girls_und_panzer_das_finale_part_5_20261009_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_girls_und_panzer_das_finale_part_5_20261009_portrait.webp?alt=media",
+      "metadataSourceURL": "https://girls-und-panzer-finale.jp/202609-article-finale5/"
+    },
+    {
       "document": "upcoming/grotesqqque_grotesque_20261106",
       "title": "GROTESQQQUE -그로테스크-",
       "mediaType": "movie",
@@ -5980,6 +6016,24 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_my_happy_marriage_special_edition_20261025.jpg?alt=media",
       "metadataSourceURL": "https://watakon-anime.com/",
       "orientation": "landscape"
+    },
+    {
+      "document": "upcoming/my_happy_marriage_special_edition_20261025",
+      "title": "나의 행복한 결혼 특별편",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://watakon-anime.com/wp-content/uploads/2025/11/%E6%96%B0%E4%BD%9C%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB_02.jpg",
+      "objectBase": "posters/upcoming/catalog_anime_my_happy_marriage_special_edition_20261025_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_my_happy_marriage_special_edition_20261025_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 392540,
+      "sha256": "26c4d9b914606a5c0e0913fb8c5e7e1ab7f7c3cf168f888676140a2e4f9704df",
+      "width": 1200,
+      "height": 1697,
+      "aspectRatio": 0.7071302298173247,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@b4dda6bd04e2a09826771cf05904e33989588c99/posters/upcoming/catalog_anime_my_happy_marriage_special_edition_20261025_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_my_happy_marriage_special_edition_20261025_portrait.webp?alt=media",
+      "metadataSourceURL": "https://watakon-anime.com/news/post-86"
     },
     {
       "document": "upcoming/my_uncle_likes_cute_things_20261004",
