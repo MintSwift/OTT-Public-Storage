@@ -12380,6 +12380,42 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_lego_friends_musical_20261016_landscape.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_lego_friends_musical_20261016_landscape.webp?alt=media",
       "metadataSourceURL": "https://www.youtube.com/watch?v=Jk9Y2Z_QNmE"
+    },
+    {
+      "document": "upcoming/netflix_master_hajun_20261015",
+      "title": "거장항준",
+      "mediaType": "series",
+      "orientation": "landscape",
+      "sourceURL": "https://img.sbs.co.kr/newsnet/etv/upload/2026/09/22/30001089415_16v9.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_master_hajun_20261015_landscape",
+      "objectPath": "posters/upcoming/catalog_series_netflix_master_hajun_20261015_landscape.webp",
+      "contentType": "image/webp",
+      "bytes": 71646,
+      "sha256": "d56f5b61616883c22b10bedf0dda42cdb4bdea9c5e7d0ef9234e94a398490435",
+      "width": 640,
+      "height": 360,
+      "aspectRatio": 1.777778,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_master_hajun_20261015_landscape.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_master_hajun_20261015_landscape.webp?alt=media",
+      "metadataSourceURL": "https://ent.sbs.co.kr/news/article.do?article_id=E10010322387&cooper=ent.sbs.co.kr"
+    },
+    {
+      "document": "upcoming/netflix_master_hajun_20261015",
+      "title": "거장항준",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://img.sbs.co.kr/newsnet/etv/upload/2026/09/22/30001089415_1280.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_master_hajun_20261015_portrait",
+      "objectPath": "posters/upcoming/catalog_series_netflix_master_hajun_20261015_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 166574,
+      "sha256": "1de2bb0c1e94311ce90904e5a57c6568f52506587edc8fc650cb97026159b52e",
+      "width": 1080,
+      "height": 1350,
+      "aspectRatio": 0.8,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_master_hajun_20261015_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_master_hajun_20261015_portrait.webp?alt=media",
+      "metadataSourceURL": "https://ent.sbs.co.kr/news/article.do?article_id=E10010322387&cooper=ent.sbs.co.kr"
     }
   ]
 }
