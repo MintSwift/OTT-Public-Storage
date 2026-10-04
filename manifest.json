@@ -11696,6 +11696,42 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Ftving_make_me_tremble_20261015.jpg?alt=media",
       "metadataSourceURL": "https://www.tving.com/contents/P001791920",
       "orientation": "landscape"
+    },
+    {
+      "document": "upcoming/netflix_godzilla_20261005",
+      "title": "고질라",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://godzilla.com/cdn/shop/articles/godzilla_2014_38a95828-b2c6-43c7-b170-37d2e076d669.png?v=1748989158",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_godzilla_20261005_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_godzilla_20261005_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 31206,
+      "sha256": "67a1a5bf51bcfdcb383a70dac6ab0899fa545353c2c5a1d30ab22cd8daba75da",
+      "width": 333,
+      "height": 473,
+      "aspectRatio": 0.7040169133192389,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_godzilla_20261005_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_godzilla_20261005_portrait.webp?alt=media",
+      "metadataSourceURL": "https://godzilla.com/blogs/movies/godzilla-2014"
+    },
+    {
+      "document": "upcoming/netflix_godzilla_king_20261005",
+      "title": "고질라: 킹 오브 몬스터",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://godzilla.com/cdn/shop/articles/godzilla-king-of-the-monsters-poster_f95f8e4b-8802-4731-aebd-bef15a321bc3.jpg?v=1748989169",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_godzilla_king_20261005_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_godzilla_king_20261005_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 303942,
+      "sha256": "48be5685582feeb853283b6d1527366845aba2f47b8d17a92659818839191810",
+      "width": 1382,
+      "height": 2048,
+      "aspectRatio": 0.6748046875,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_godzilla_king_20261005_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_godzilla_king_20261005_portrait.webp?alt=media",
+      "metadataSourceURL": "https://godzilla.com/blogs/movies/godzilla-king-of-monsters"
     }
   ]
 }
