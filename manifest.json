@@ -7691,6 +7691,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/disney_clown_panic_20261012",
+      "title": "광대 패닉: 공포의 스마일",
+      "mediaType": "movie",
+      "sourceURL": "https://cdn.moviefone.com/admin-uploads/highlights/images/clown-panic-official-poster_1790242700.webp",
+      "objectBase": "posters/upcoming/catalog_movies_disney_clown_panic_20261012",
+      "objectPath": "posters/upcoming/catalog_movies_disney_clown_panic_20261012_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 101352,
+      "sha256": "442b0726339690363efbfa188522a73dce8217d1993086f2bf94039e2d4186d6",
+      "width": 1080,
+      "height": 1350,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@9c064cca6c149035969dd28d59511523e0d58adf/posters/upcoming/catalog_movies_disney_clown_panic_20261012_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_disney_clown_panic_20261012_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.disneyplus.com/explore/articles/new-to-disney-plus",
+      "orientation": "portrait"
+    },
+    {
       "document": "upcoming/disney_family_guy_happy_helloween_20261005",
       "title": "패밀리 가이: 해피 헬로윈",
       "mediaType": "movie",
