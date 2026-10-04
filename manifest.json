@@ -9325,6 +9325,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/coupang_harry_potter_2026",
+      "title": "해리 포터와 마법사의 돌",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://contentful.harrypotter.com/usf1vwtuqyxm/5ywLYRmXOppSBPpD1M0ypi/b2624fbaef0a3162414ecd0117fed27c/SOP_Dominic_0714__1_.jpg",
+      "objectBase": "posters/upcoming/catalog_series_coupang_harry_potter_2026_portrait",
+      "objectPath": "posters/upcoming/catalog_series_coupang_harry_potter_2026_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 384972,
+      "sha256": "12047cf6ba5eac30dd99bb09a6824c8ac341668b1d561d3ef4b85c6e527eb52a",
+      "width": 2912,
+      "height": 3882,
+      "aspectRatio": 0.7501287995878413,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@6fef43e681ffe9f541274896160879f3abfa377d/posters/upcoming/catalog_series_coupang_harry_potter_2026_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_coupang_harry_potter_2026_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.harrypotter.com/news/neville-dudley-hooch-ollivander-casting-confirmed-for-hbo-series-alongside-first-look-harry"
+    },
+    {
       "document": "upcoming/disney_africa_earths_wild_home_20261003",
       "title": "아프리카: 야생의 심장",
       "mediaType": "series",
