@@ -12007,6 +12007,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_the_good_lawyer_2026",
+      "title": "The Good Lawyer",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://fr.web.img4.acsta.net/img/27/a0/27a09c088100419f8559803dff5545ed.jpg",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_the_good_lawyer_2026_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_the_good_lawyer_2026_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 329179,
+      "sha256": "5b85a5dda1d375ecbb081a4b5e43a538dce176cda218d0353e4bf9d4054ae237",
+      "width": 1200,
+      "height": 1600,
+      "aspectRatio": 0.75,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@40471b548e9629d0503523ac16b412db67ab33af/posters/upcoming/catalog_movies_netflix_the_good_lawyer_2026_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_the_good_lawyer_2026_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.allocine.fr/article/fichearticle_gen_carticle=1000222303.html"
+    },
+    {
       "document": "upcoming/netflix_tyler_perry_s_doing_life_20261002",
       "title": "Tyler Perry's Doing Life",
       "mediaType": "movie",
