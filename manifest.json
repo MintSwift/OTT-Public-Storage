@@ -12452,6 +12452,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_series_netflix_kim_hyeja_20261005_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_kim_hyeja_20261005_portrait.webp?alt=media",
       "metadataSourceURL": "https://ent.sbs.co.kr/news/article.do?article_id=E10010322733"
+    },
+    {
+      "document": "upcoming/netflix_pororo_s9_20261015",
+      "title": "뽀롱뽀롱 뽀로로 시즌 9",
+      "mediaType": "series",
+      "orientation": "landscape",
+      "sourceURL": "https://i.ytimg.com/vi/asQJddeD-rs/maxresdefault.jpg",
+      "objectBase": "posters/upcoming/catalog_anime_netflix_pororo_s9_20261015_landscape",
+      "objectPath": "posters/upcoming/catalog_anime_netflix_pororo_s9_20261015_landscape.webp",
+      "contentType": "image/webp",
+      "bytes": 89082,
+      "sha256": "dc750900b235082e0d1e69b41f363c152ca66e33525f69c761af8362fe56c71a",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.777778,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_pororo_s9_20261015_landscape.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_pororo_s9_20261015_landscape.webp?alt=media",
+      "metadataSourceURL": "https://www.youtube.com/watch?v=asQJddeD-rs"
     }
   ]
 }
