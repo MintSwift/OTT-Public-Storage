@@ -11119,6 +11119,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_doctor_x_20261009",
+      "title": "닥터X: 하얀 마피아의 시대",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://img.sbs.co.kr/newsnet/etv/upload/2026/09/18/30001088884_1280.jpg",
+      "objectBase": "posters/upcoming/catalog_series_netflix_doctor_x_20261009_portrait",
+      "objectPath": "posters/upcoming/catalog_series_netflix_doctor_x_20261009_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 367356,
+      "sha256": "6c367155cd32ff5e493bff59016acefb305a988afd6d99695a8bd78f6564f395",
+      "width": 1280,
+      "height": 1810,
+      "aspectRatio": 0.7071823204419889,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@9dd360ccf925bbefa07f82da461f3eacabcaaaf2/posters/upcoming/catalog_series_netflix_doctor_x_20261009_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_doctor_x_20261009_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://news.sbs.co.kr/news/endPage.do?gubun=95&newsId=N1008760693&serviceDt="
+    },
+    {
       "document": "upcoming/netflix_eyes_20261007",
       "title": "눈동자",
       "mediaType": "movie",
