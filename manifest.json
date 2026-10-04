@@ -13298,6 +13298,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_ray_gunn_20261218_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_ray_gunn_20261218_portrait.webp?alt=media",
       "metadataSourceURL": "https://media.netflix.com/en/only-on-netflix/81756797"
+    },
+    {
+      "document": "games/The Legend of Zelda: Ocarina of Time",
+      "title": "젤다의 전설 시간의 오카리나",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_2_games/thelegendofzeldaocarinaoftime/TheLegendOfZeldaOcarinaOfTime_cards_YoungLink.png",
+      "objectBase": "posters/games/catalog_games_the_legend_of_zelda_ocarina_of_time_portrait",
+      "objectPath": "posters/games/catalog_games_the_legend_of_zelda_ocarina_of_time_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 153238,
+      "sha256": "3f3a897a6f2c46c836404bbb28913cc30d94a28c03cd9b12c099af9df162ecab",
+      "width": 759,
+      "height": 1377,
+      "aspectRatio": 0.55119825708061,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@2586eae88f7f177717c3bb338e3a109f7eb03867/posters/games/catalog_games_the_legend_of_zelda_ocarina_of_time_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_the_legend_of_zelda_ocarina_of_time_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/The-Legend-of-Zelda-Ocarina-of-Time-3115664.html"
     }
   ]
 }
