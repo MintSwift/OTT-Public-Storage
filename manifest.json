@@ -12488,6 +12488,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_007_first_light_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_007_first_light_portrait.webp?alt=media",
       "metadataSourceURL": "https://www.playstation.com/en-us/games/007-first-light/"
+    },
+    {
+      "document": "games/Ghost of Yotei Complete Edition",
+      "title": "Ghost of Yōtei Complete Edition",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://gmedia.playstation.com/is/image/SIEPDC/ghost-of-yotei-packshot-ps5-01-24jul25?wid=1280&hei=1600&fit=constrain",
+      "objectBase": "posters/games/catalog_games_ghost_of_yotei_complete_edition_portrait",
+      "objectPath": "posters/games/catalog_games_ghost_of_yotei_complete_edition_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 308054,
+      "sha256": "314995ab354a8c6f5eaf9bc57e575bc89c741f721429a35dac467cb3c228867b",
+      "width": 1240,
+      "height": 1563,
+      "aspectRatio": 0.793346,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_ghost_of_yotei_complete_edition_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_ghost_of_yotei_complete_edition_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.playstation.com/en-us/games/ghost-of-yotei/"
     }
   ]
 }
