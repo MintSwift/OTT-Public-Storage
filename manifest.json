@@ -11786,6 +11786,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_romancing_saga_3_destinies_united_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_romancing_saga_3_destinies_united_portrait.webp?alt=media",
       "metadataSourceURL": "https://na.store.square-enix-games.com/romancing-saga-3-destinies-united"
+    },
+    {
+      "document": "games/ONE PIECE: Grand Gourmet",
+      "title": "원피스 그랜드 레스토랑",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/cmq6qfei10pcw06lk2kb9zlmk",
+      "objectBase": "posters/games/catalog_games_one_piece_grand_gourmet_portrait",
+      "objectPath": "posters/games/catalog_games_one_piece_grand_gourmet_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 132776,
+      "sha256": "91f852c08d4c01b185ce747c3a5aad5b76466ac91d7dc5f253cbb57323746dcd",
+      "width": 570,
+      "height": 760,
+      "aspectRatio": 0.75,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_one_piece_grand_gourmet_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_one_piece_grand_gourmet_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.bandainamcoent.com/games/one-piece-grand-gourmet"
     }
   ]
 }
