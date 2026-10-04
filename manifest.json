@@ -11905,6 +11905,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/netflix_wwe_money_bank_20261011",
+      "title": "WWE Money in the Bank 시즌 17: 2026",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://images.fandango.com/ImageRenderer/820/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/246825/WWE_MoneyInTheBank_MOP_PBFAN_900x1333_V1.png",
+      "objectBase": "posters/upcoming/catalog_series_netflix_wwe_money_bank_20261011_portrait",
+      "objectPath": "posters/upcoming/catalog_series_netflix_wwe_money_bank_20261011_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 355706,
+      "sha256": "64524eb8ddef815975cb56575669296d5d280736da1b37d27b80d1609a0890e4",
+      "width": 820,
+      "height": 1214,
+      "aspectRatio": 0.6754530477759473,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@393aac039575b7d3de051e442d33febb2c5b8da1/posters/upcoming/catalog_series_netflix_wwe_money_bank_20261011_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_netflix_wwe_money_bank_20261011_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.fandango.com/wwe-money-in-the-bank-2026-246825/movie-photos-posters"
+    },
+    {
       "document": "upcoming/netflix_outback_2026",
       "title": "아웃백 (가제)",
       "mediaType": "series",
