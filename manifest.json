@@ -9534,6 +9534,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/disney_final_table_20261025",
+      "title": "파이널 테이블",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://img.tenasia.co.kr/photo/202609/BF.45867744.1.jpg",
+      "objectBase": "posters/upcoming/catalog_series_disney_final_table_20261025_portrait",
+      "objectPath": "posters/upcoming/catalog_series_disney_final_table_20261025_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 214999,
+      "sha256": "70ba9865aba5fd7cac8a09a890c74b72be3dbcbc6a92d7918dea5e26a20b438c",
+      "width": 1123,
+      "height": 1600,
+      "aspectRatio": 0.701875,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@5daf46a3be49b1f558a89944e669c68bc6acd3ea/posters/upcoming/catalog_series_disney_final_table_20261025_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_final_table_20261025_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.tenasia.co.kr/article/2026092916824"
+    },
+    {
       "document": "upcoming/disney_kardashians_s8_20261008",
       "title": "카다시안 패밀리 시즌 8",
       "mediaType": "series",
