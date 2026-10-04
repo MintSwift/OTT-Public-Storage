@@ -9464,6 +9464,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/disney_city_of_blood_20261014",
+      "title": "시티 오브 블러드",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://storage.googleapis.com/endurance-apps-liip/media/cache/disney_no_filter_grid_fs/6a8d7969cd9a3fb1f90b2180",
+      "objectBase": "posters/upcoming/catalog_series_disney_city_of_blood_20261014_portrait",
+      "objectPath": "posters/upcoming/catalog_series_disney_city_of_blood_20261014_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 312782,
+      "sha256": "c18c850fdbef4a4f81df956303f23cf511211a34101fe88ee151e6eb0b011ecf",
+      "width": 1080,
+      "height": 1350,
+      "aspectRatio": 0.8,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@7e389200b18d9e21b63eeb925963334d900f61a2/posters/upcoming/catalog_series_disney_city_of_blood_20261014_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_disney_city_of_blood_20261014_portrait.webp?alt=media",
+      "metadataSourceURL": "https://newsroom.disney.fr/photos/city-of-blood-4x5-pre-png-2d324-dc71f.html"
+    },
+    {
       "document": "upcoming/disney_coven_academy_20261002",
       "title": "마녀 아카데미",
       "mediaType": "series",
