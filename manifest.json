@@ -2576,6 +2576,23 @@
       "orientation": "landscape"
     },
     {
+      "document": "games/Pokémon Waves",
+      "title": "포켓몬스터 웨이브",
+      "mediaType": "game",
+      "sourceURL": "https://windswaves.pokemon.com/_images/feb_27_2026/trainer_waves.png",
+      "objectBase": "posters/games/catalog_games_pok_mon_waves",
+      "objectPath": "posters/games/catalog_games_pok_mon_waves_portrait.png",
+      "contentType": "image/png",
+      "bytes": 341187,
+      "sha256": "7e43ba92bc97aa3567804d7422cbcb759915e7f840391eb383f57f2c8b551a6b",
+      "width": 500,
+      "height": 670,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@769a59aef93ba37edd365f174214f9228788dcc9/posters/games/catalog_games_pok_mon_waves_portrait.png",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_pok_mon_waves_portrait.png?alt=media",
+      "metadataSourceURL": "https://windswaves.pokemon.com/en-ca/",
+      "orientation": "portrait"
+    },
+    {
       "document": "games/Pokémon Winds",
       "title": "포켓몬스터 윈드",
       "mediaType": "game",
@@ -2591,6 +2608,23 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_pok_mon_winds.jpg?alt=media",
       "metadataSourceURL": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Pokemon-Winds-3039085.html",
       "orientation": "landscape"
+    },
+    {
+      "document": "games/Pokémon Winds",
+      "title": "포켓몬스터 윈드",
+      "mediaType": "game",
+      "sourceURL": "https://windswaves.pokemon.com/_images/feb_27_2026/trainer_winds.png",
+      "objectBase": "posters/games/catalog_games_pok_mon_winds",
+      "objectPath": "posters/games/catalog_games_pok_mon_winds_portrait.png",
+      "contentType": "image/png",
+      "bytes": 350401,
+      "sha256": "5b05bfffca3808b02ef825fbd5044d6329c392c725847c9619bf0d0ef6872b96",
+      "width": 500,
+      "height": 670,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@769a59aef93ba37edd365f174214f9228788dcc9/posters/games/catalog_games_pok_mon_winds_portrait.png",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_pok_mon_winds_portrait.png?alt=media",
+      "metadataSourceURL": "https://windswaves.pokemon.com/en-ca/",
+      "orientation": "portrait"
     },
     {
       "document": "games/Professor Layton and the New World of Steam",
