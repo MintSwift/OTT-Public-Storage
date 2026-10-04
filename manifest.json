@@ -13424,6 +13424,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@3ccf57cb70a1f5f8c5190d5ab12c9ec79207c1da/posters/games/catalog_games_just_dance_decades_of_hits_portrait.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_just_dance_decades_of_hits_portrait.jpg?alt=media",
       "metadataSourceURL": "https://www.ubisoft.com/en-us/game/just-dance/decades-of-hits"
+    },
+    {
+      "document": "upcoming/tving_study_group_s2_2026",
+      "title": "스터디그룹 시즌 2",
+      "mediaType": "series",
+      "orientation": "portrait",
+      "sourceURL": "https://img.etnews.com/news/article/2026/07/28/news-p.v1.20260728.288725cf2691492b890d8859044e9d9d_P1.jpg",
+      "objectBase": "posters/upcoming/catalog_series_tving_study_group_s2_2026_portrait",
+      "objectPath": "posters/upcoming/catalog_series_tving_study_group_s2_2026_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 266835,
+      "sha256": "cd1e7ed701f1e10dc81cf66a10bf1a30bf6e8b781c75724fa70190007754d3da",
+      "width": 489,
+      "height": 700,
+      "aspectRatio": 0.6985714285714286,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@32957f4186f7856b6dddb9a4f9788d75f2d6c7e6/posters/upcoming/catalog_series_tving_study_group_s2_2026_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_series_tving_study_group_s2_2026_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.etnews.com/20260728000270"
     }
   ]
 }
