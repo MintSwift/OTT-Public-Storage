@@ -12362,6 +12362,24 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_movies_netflix_narnia_magicians_nephew_20270402_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_narnia_magicians_nephew_20270402_portrait.webp?alt=media",
       "metadataSourceURL": "https://media.netflix.com/en/only-on-netflix/81030669"
+    },
+    {
+      "document": "upcoming/netflix_lego_friends_musical_20261016",
+      "title": "레고® 프렌즈 - 하트레이크 더 뮤지컬",
+      "mediaType": "movie",
+      "orientation": "landscape",
+      "sourceURL": "https://i.ytimg.com/vi/Jk9Y2Z_QNmE/maxresdefault.jpg",
+      "objectBase": "posters/upcoming/catalog_anime_netflix_lego_friends_musical_20261016_landscape",
+      "objectPath": "posters/upcoming/catalog_anime_netflix_lego_friends_musical_20261016_landscape.webp",
+      "contentType": "image/webp",
+      "bytes": 115924,
+      "sha256": "8fa3ad30f08722b580be10e13c37c545b216fcb71c42be28429c1a969f27df3f",
+      "width": 1280,
+      "height": 720,
+      "aspectRatio": 1.777778,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/upcoming/catalog_anime_netflix_lego_friends_musical_20261016_landscape.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_netflix_lego_friends_musical_20261016_landscape.webp?alt=media",
+      "metadataSourceURL": "https://www.youtube.com/watch?v=Jk9Y2Z_QNmE"
     }
   ]
 }
