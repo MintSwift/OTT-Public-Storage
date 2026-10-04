@@ -4699,6 +4699,24 @@
       "metadataSourceURL": "https://www.youtube.com/post/Ugkx_9Y7i8vbdGK-XnknEBqLWLT_7Yj6890X"
     },
     {
+      "document": "upcoming/disney_spidey_avengers_halloween_teamup_20261016",
+      "title": "스파이디, 그리고 어벤져스: 할로윈 팀업!",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://lumiere-a.akamaihd.net/v1/images/saf_halloween_teamup_27x40_premiere-cta_act694788_749dad8a.jpeg?region=0%2C0%2C1688%2C2500",
+      "objectBase": "posters/upcoming/catalog_anime_disney_spidey_avengers_halloween_teamup_20261016_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_disney_spidey_avengers_halloween_teamup_20261016_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 337658,
+      "sha256": "c0e434092a6bc097b1c136df1a49e17bf9a94a12abcbcdcc3bbcecdc7886dceb",
+      "width": 1100,
+      "height": 1629,
+      "aspectRatio": 0.6752608962553714,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@526da6e5a93bf3c6d4a7bd848fdd588ebb4ff5d9/posters/upcoming/catalog_anime_disney_spidey_avengers_halloween_teamup_20261016_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_disney_spidey_avengers_halloween_teamup_20261016_portrait.webp?alt=media",
+      "metadataSourceURL": "https://press.disneyplus.com/disney-plus/spidey-and-the-avengers/assets"
+    },
+    {
       "document": "upcoming/disney_spidey_s5_20261007",
       "title": "스파이디, 그리고 놀라운 친구들 시즌 5",
       "mediaType": "series",
@@ -6810,6 +6828,24 @@
       "orientation": "landscape"
     },
     {
+      "document": "upcoming/the_inheritor_of_the_wind_theatrical_advance_version_20261113",
+      "title": "바람을 잇는 자: 극장 선행판",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://www.aniplex.co.jp/lineup/kaze-tusgu/news/detail/SYS/CONTENTS/8c5916fa-4c5c-46f7-b942-0a72563d70b4/w707",
+      "objectBase": "posters/upcoming/catalog_anime_the_inheritor_of_the_wind_theatrical_advance_version_20261113_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_the_inheritor_of_the_wind_theatrical_advance_version_20261113_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 81272,
+      "sha256": "f36e08e540ee9e45d1e8f7e861df36c8b5e07dabe30e7f92e9d578178481dd0e",
+      "width": 707,
+      "height": 999,
+      "aspectRatio": 0.7077077077077077,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@526da6e5a93bf3c6d4a7bd848fdd588ebb4ff5d9/posters/upcoming/catalog_anime_the_inheritor_of_the_wind_theatrical_advance_version_20261113_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_the_inheritor_of_the_wind_theatrical_advance_version_20261113_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.aniplex.co.jp/lineup/kaze-tusgu/news/detail/?id=71138"
+    },
+    {
       "document": "upcoming/the_lent_magical_power_is_forcibly_collected_through_revolving_payment_20261003",
       "title": "빌려준 마력은 리볼빙 결제로 강제 회수",
       "mediaType": "series",
@@ -7249,6 +7285,24 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_wizard_night_20261120.jpg?alt=media",
       "metadataSourceURL": "https://mahoyo-movie.com/",
       "orientation": "landscape"
+    },
+    {
+      "document": "upcoming/wizard_night_20261120",
+      "title": "마법사의 밤",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://www.aniplex.co.jp/news/detail/SYS/CONTENTS/c16d6d58-8f05-4069-bb28-4284606330f1/w707",
+      "objectBase": "posters/upcoming/catalog_anime_wizard_night_20261120_portrait",
+      "objectPath": "posters/upcoming/catalog_anime_wizard_night_20261120_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 83840,
+      "sha256": "72915261a1b847644791a603a1af8e55fe8f439a167dcda4cdb5dc5c3edffe33",
+      "width": 707,
+      "height": 1000,
+      "aspectRatio": 0.707,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@526da6e5a93bf3c6d4a7bd848fdd588ebb4ff5d9/posters/upcoming/catalog_anime_wizard_night_20261120_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_anime_wizard_night_20261120_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.aniplex.co.jp/news/detail/?id=70952"
     },
     {
       "document": "upcoming/worlds_strongest_witch_20261007",
@@ -8482,6 +8536,24 @@
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_surviving_hurricane_otis_2026.jpg?alt=media",
       "metadataSourceURL": "https://www.netflix.com/tudum/features/new-fall-movies-on-netflix-2026?inapp=true",
       "orientation": "landscape"
+    },
+    {
+      "document": "upcoming/netflix_the_child_20261127",
+      "title": "The Child",
+      "mediaType": "movie",
+      "orientation": "portrait",
+      "sourceURL": "https://assetshare.netflixstudios.com/api/share/9310e0f2-543f-442d-bf53-852fb264cd9b/401d5130-9278-11f1-8c87-121aa9a93fdb/401d5130-9278-11f1-8c87-121aa9a93fdb/download",
+      "objectBase": "posters/upcoming/catalog_movies_netflix_the_child_20261127_portrait",
+      "objectPath": "posters/upcoming/catalog_movies_netflix_the_child_20261127_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 363556,
+      "sha256": "32fefeb9cf81ec9352e56183df9cf3818f05cb7e019abb2a466288eee7b14272",
+      "width": 1100,
+      "height": 1629,
+      "aspectRatio": 0.6752608962553714,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@526da6e5a93bf3c6d4a7bd848fdd588ebb4ff5d9/posters/upcoming/catalog_movies_netflix_the_child_20261127_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fupcoming%2Fcatalog_movies_netflix_the_child_20261127_portrait.webp?alt=media",
+      "metadataSourceURL": "https://about.netflix.com/en/news/the-child-is-coming-to-netflix-on-27-november-following-its-cinema-premiere-on-13-november"
     },
     {
       "document": "upcoming/netflix_the_disciple_20261016",
