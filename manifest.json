@@ -13496,6 +13496,42 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@830ea08667df39b25edaaa56c112583b69a25962/posters/games/catalog_games_end_of_abyss_portrait.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_end_of_abyss_portrait.jpg?alt=media",
       "metadataSourceURL": "https://store.playstation.com/ko-kr/product/HP1597-PPSA25717_00-ENDOFABYSS000000"
+    },
+    {
+      "document": "games/Mega Man: Dual Override",
+      "title": "Mega Man: Dual Override",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://store-images.s-microsoft.com/image/apps.21435.13514363539614838.f4d1c449-4cfa-4001-b61a-c3bf01496d0b.a2fc555b-3cd9-4f18-a49d-0b563a852118",
+      "objectBase": "posters/games/catalog_games_mega_man_dual_override_portrait",
+      "objectPath": "posters/games/catalog_games_mega_man_dual_override_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 339781,
+      "sha256": "40268c2c1f7c2243b313518a4a9175b2457bb81b99ca36ca4a41757738b5b118",
+      "width": 1440,
+      "height": 2160,
+      "aspectRatio": 0.6666666666666666,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@5bb9019218b155164ae22fb98ffc32003a2b1c20/posters/games/catalog_games_mega_man_dual_override_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_mega_man_dual_override_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.xbox.com/en-US/games/store/mega-man-dual-override/9nbn9wsk4qf3"
+    },
+    {
+      "document": "games/Ondeh Ondeh Kaya's Tasty Tale",
+      "title": "Ondeh Ondeh Kaya's Tasty Tale",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://store-images.s-microsoft.com/image/apps.46676.14054037167025884.8de95db0-1de1-46e1-bb50-95de1760eba5.b552fc23-d665-4182-8933-d19a3a051990",
+      "objectBase": "posters/games/catalog_games_ondeh_ondeh_kaya_s_tasty_tale_portrait",
+      "objectPath": "posters/games/catalog_games_ondeh_ondeh_kaya_s_tasty_tale_portrait.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 356188,
+      "sha256": "4e31c0ae416994de574df104c5653e28d8418a84d7b6bceab056f03dcd6bceca",
+      "width": 800,
+      "height": 1200,
+      "aspectRatio": 0.6666666666666666,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@5bb9019218b155164ae22fb98ffc32003a2b1c20/posters/games/catalog_games_ondeh_ondeh_kaya_s_tasty_tale_portrait.jpg",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_ondeh_ondeh_kaya_s_tasty_tale_portrait.jpg?alt=media",
+      "metadataSourceURL": "https://www.xbox.com/en-US/games/store/_/9N87Z985F58H"
     }
   ]
 }
