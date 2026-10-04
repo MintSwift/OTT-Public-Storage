@@ -11822,6 +11822,42 @@
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_final_fantasy_resonance_portrait.webp",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_final_fantasy_resonance_portrait.webp?alt=media",
       "metadataSourceURL": "https://na.store.square-enix-games.com/final-fantasy-resonance"
+    },
+    {
+      "document": "games/Resident Evil 2 Deluxe Edition",
+      "title": "BIOHAZARD RE:2 Deluxe Edition",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/library_600x900.jpg",
+      "objectBase": "posters/games/catalog_games_resident_evil_2_deluxe_edition_portrait",
+      "objectPath": "posters/games/catalog_games_resident_evil_2_deluxe_edition_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 41694,
+      "sha256": "de04129a89558a95c5f7c4872028150a62bf9b148e3227959db1b6ae231bb16c",
+      "width": 300,
+      "height": 450,
+      "aspectRatio": 0.6666666666666666,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_resident_evil_2_deluxe_edition_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_resident_evil_2_deluxe_edition_portrait.webp?alt=media",
+      "metadataSourceURL": "https://www.nintendo.com/au/games/nintendo-switch-2/resident-evil-2-deluxe-edition/"
+    },
+    {
+      "document": "games/Stellar Blade Complete Edition",
+      "title": "스텔라 블레이드 컴플리트 에디션",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/library_600x900.jpg",
+      "objectBase": "posters/games/catalog_games_stellar_blade_complete_edition_portrait",
+      "objectPath": "posters/games/catalog_games_stellar_blade_complete_edition_portrait.webp",
+      "contentType": "image/webp",
+      "bytes": 44606,
+      "sha256": "ec7d05cbea6b18826e0d5c8063dba02c91d1ad30ba1358f8333ee8ab4f9adb76",
+      "width": 300,
+      "height": 450,
+      "aspectRatio": 0.6666666666666666,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@main/posters/games/catalog_games_stellar_blade_complete_edition_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_stellar_blade_complete_edition_portrait.webp?alt=media",
+      "metadataSourceURL": "https://store.nintendo.co.kr/70010000123392"
     }
   ]
 }
