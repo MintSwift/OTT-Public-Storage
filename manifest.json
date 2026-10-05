@@ -13766,6 +13766,24 @@
       "aspectRatio": 0.666667,
       "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@4227028f5f05a48c693478b50f2a3eeecf1c4659/posters/games/catalog_games_trash_day_portrait.jpg",
       "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_trash_day_portrait.jpg?alt=media"
+    },
+    {
+      "document": "games/Metroid Ravenous",
+      "title": "Metroid Ravenous",
+      "mediaType": "game",
+      "orientation": "portrait",
+      "sourceURL": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/ccb3e8ca3c296e21a8c933e8369031511589d0ef6b079cf5bb3667b09893482c/wrt80zr3f/pmp_MbSsYsqg6oBkh59B/2c-story-intro-samus",
+      "objectBase": "posters/games/catalog_games_metroid_ravenous_portrait",
+      "objectPath": "posters/games/catalog_games_metroid_ravenous_portrait.webp",
+      "metadataSourceURL": "https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/",
+      "contentType": "image/webp",
+      "bytes": 249250,
+      "sha256": "c3e9ef7af1da1e7c488d64bb09c6e3e3a5ffe4024da47a63c586c1efd8bdf718",
+      "width": 1096,
+      "height": 1229,
+      "aspectRatio": 0.891782,
+      "cdnURL": "https://cdn.jsdelivr.net/gh/MintSwift/OTT-Public-Storage@6161d053f523bee5a0faf9719755cea1cacb0cba/posters/games/catalog_games_metroid_ravenous_portrait.webp",
+      "firebaseFallbackURL": "https://firebasestorage.googleapis.com/v0/b/comingsoon-ios.firebasestorage.app/o/posters%2Fgames%2Fcatalog_games_metroid_ravenous_portrait.webp?alt=media"
     }
   ]
 }
